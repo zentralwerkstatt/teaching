@@ -77,7 +77,7 @@ Weekly assignment: 300-word analysis or reconstruction of artwork from one of th
 ### 2/5: Neural Networks
 
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) (2016)
-- :vhs: [But What Is a Neural Network? (2017), parts 1-3](https://www.youtube.com/watch?v=aircAruvnKk)
+- :vhs: [But What Is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk) (2017, parts 1-3)
 
 ### 2/7: Deep Learning
 
