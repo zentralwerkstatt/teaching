@@ -10,13 +10,11 @@ Artistic creation and neural networks have been rubbing shoulders for a long tim
 
 In-class participation: 25%, assignments: 25%, final project/paper: 50 %. Final project presentations 3/21, final projects/papers due 3/28.
 
+## Info 
+
+Please note: this syllabus is subject to change until the begin of the Winter quarter. :book: stands for an article/book/blog post, :computer: stands for the close reading of source code, and :vhs: denotes a video. The class code repository can be found here: https://github.com/zentralwerkstatt/ART185AI.
+
 ## Syllabus
-
-*Please note: This syllabus is subject to change until the begin of the Winter quarter.*
-
-:book: = article/book/blog post; :mortar_board: = talk; :computer: = source code close reading; :vhs: = video in class. 
-
-Class GitHub repository: https://github.com/zentralwerkstatt/ART185AI.
 
 ### 1/8: Introduction
 
