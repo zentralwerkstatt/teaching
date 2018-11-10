@@ -32,7 +32,7 @@ Please note: this syllabus is subject to change until the begin of the Winter qu
 ### 1/15: History of Computer Art, 1965
 
 - :book: Nees, Georg, Computer-grafik (1965, German, translation [here](http://dada.compart-bremen.de/docUploads/Bense_Manifest.pdf), but browse the images in the original book)
-- :book: Klüstch, Christoph, Computer Graphic-Aesthetic Experiments Between Two Cultures (2007)
+- :book: Klütsch, Christoph, Computer Graphic-Aesthetic Experiments Between Two Cultures (2007)
 - :vhs: [Manfred Mohr video works playlist](https://www.youtube.com/playlist?list=PL_0LKGAwYuw7nT63wqzVLFvW2L4rw53qb)
 - :vhs: [Manfed Mohr interview](https://www.youtube.com/watch?v=THaQGTMWhFA)
 
