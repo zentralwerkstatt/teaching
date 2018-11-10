@@ -9,3 +9,4 @@ I am offering two classes at the University of California, Santa Barbara: a grad
 - [MAT594SP: Aesthetics and Politics of Artificial Intelligence](https://github.com/zentralwerkstatt/teaching/blob/master/mat594sp.md) / [code](https://github.com/zentralwerkstatt/MAT594SP)
 - [ART185AI: Machine Learning and the Arts](https://github.com/zentralwerkstatt/teaching/blob/master/art185ai.md) / code
 - Computability as Critical Theory / code
+- [More class resources](https://github.com/zentralwerkstatt/teaching/blob/master/more.md)
