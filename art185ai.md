@@ -115,17 +115,18 @@ Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 30
 
 Weekly assignment: Create your own deep dream images by experimenting with *datasets* and *hyperparameters* in the class notebook.
 
-### 3/5: Feature Visualization I
+### 3/5: Feature Visualization
 
 - :book: Olah, Chris, [Feature Visualization](https://distill.pub/2017/feature-visualization) (2017)
 - :book: Olah, Chris, [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks) (2018)
 - :computer: Class Jupyter notebook
+- :computer: Class Jupyter notebook
 
-### 3/7: Feature Visualization II
+### 3/7: Language Models
 
 - :computer: Class Jupyter notebook
 
-Weekly assignment: Create your own feature visualization images by experimenting with *datasets* and *hyperparameters* in the class notebook.
+Weekly assignment: Create your own feature visualization images or generated texts by experimenting with *datasets* and *hyperparameters* in the class notebooks.
 
 ### 3/12: GANs I
 
