@@ -72,7 +72,7 @@ Class GitHub repository: https://github.com/zentralwerkstatt/MAT594SP.
 - :computer: Goh, Gabriel, [Image Synthesis from Yahoo's open_nsfw](https://open_nsfw.gitlab.io/) (2016)
 - :book: Offert, Fabian, ["I know it when I see it". Visualization and Intuitive Interpretability](https://arxiv.org/abs/1711.08042) (2017)
 - :book: Szegedy, Christian et. al., [Intriguing Properties of Neural Networks](https://arxiv.org/abs/1312.6199) (2013)
-- Zech, John, [What are Radiological Deep Learning Models Actually Learning?](https://medium.com/@jrzech/what-are-radiological-deep-learning-models-actually-learning-f97a546c5b98) (2018)
+- :book: Zech, John, [What are Radiological Deep Learning Models Actually Learning?](https://medium.com/@jrzech/what-are-radiological-deep-learning-models-actually-learning-f97a546c5b98) (2018)
 - :computer: https://github.com/zentralwerkstatt/MAT594SP/blob/master/4-nsfw.ipynb
           
 ### 5/4: Interpretability I
