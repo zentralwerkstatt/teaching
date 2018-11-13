@@ -31,16 +31,16 @@ Please note: this syllabus is subject to change until the begin of the Winter qu
 
 ### 1/15: History of Computer Art, 1965
 
-![](http://www.emohr.com/images/p036a.gif)
-
-Image by [Manfred Mohr](http://www.emohr.com)
-
 - :book: Nees, Georg, Computer-grafik (1965, German, translation [here](http://dada.compart-bremen.de/docUploads/Bense_Manifest.pdf), but browse the images in the original book)
 - :book: Klütsch, Christoph, Computer Graphic-Aesthetic Experiments Between Two Cultures (2007)
 - :vhs: [Manfred Mohr video works playlist](https://www.youtube.com/playlist?list=PL_0LKGAwYuw7nT63wqzVLFvW2L4rw53qb)
 - :vhs: [Manfed Mohr interview](https://www.youtube.com/watch?v=THaQGTMWhFA)
 
-### 1/17: History of Computer Art, 1968
+### 1/17: History of Computer Art, 1970
+
+![](http://www.emohr.com/images/p036a.gif)
+
+[Manfred Mohr](http://www.emohr.com), P-036, "White Noise" (1970)
 
 - :vhs: [The Incredible Machine](https://www.youtube.com/watch?v=iwVu2BWLZqA) (1968)
 - :vhs: [Deactivation of HAL9000 from Stanley Kubrick's 2001: A Space Odyssey](https://www.youtube.com/watch?v=I1iRWKARwTY) (1968)
@@ -110,7 +110,7 @@ Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 30
 
 ![](https://farm4.staticflickr.com/3785/19159594410_596fb39d69_c.jpg)
 
-Image by [Kyle McDonald](http://www.kylemcdonald.net/)
+Deepdream experiment by [Kyle McDonald](http://www.kylemcdonald.net/) (2015)
 
 - :book: Mordvintsev, Alexander et. al., [Inceptionism: Going Deeper into Neural Networks](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) (2015)
 - :computer: [https://github.com/google/deepdreamgoogle/deepdream](https://github.com/google/deepdreamgoogle/deepdream)
@@ -139,7 +139,9 @@ Weekly assignment: Create your own feature visualization images or generated tex
 
 ### 3/12: GANs I
 
-Image by [Kyle McDonald](http://www.kylemcdonald.net/)
+![](img/barbershop_256x5.png)
+
+Barbershops genrated with the BigGAN algorithm
 
 - :book: Sarin, Helena, [Playing a game of GANstruction](https://thegradient.pub/playing-a-game-of-ganstruction/) (2018)
 - :computer: Class Jupyter notebook
