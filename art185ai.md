@@ -31,7 +31,12 @@ Please note: this syllabus is subject to change until the begin of the Winter qu
 
 ### 1/15: History of Computer Art, 1965
 
-![Manfred Mohr, P-036, "White Noise", computer generated algorithmic plotter drawing, 1970](http://www.emohr.com/images/p036a.gif)
+<p align="center">
+  <img src="http://www.emohr.com/images/p036a.gif">
+</p>
+<p style="text-align: center; padding-top: 20px; padding-bottom: 20px">
+    Manfred Mohr, P-036, "White Noise", computer generated algorithmic plotter drawing, 1970
+</p>
 
 - :book: Nees, Georg, Computer-grafik (1965, German, translation [here](http://dada.compart-bremen.de/docUploads/Bense_Manifest.pdf), but browse the images in the original book)
 - :book: Klütsch, Christoph, Computer Graphic-Aesthetic Experiments Between Two Cultures (2007)
