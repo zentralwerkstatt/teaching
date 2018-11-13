@@ -31,11 +31,7 @@ Please note: this syllabus is subject to change until the begin of the Winter qu
 
 ### 1/15: History of Computer Art, 1965
 
-<p align="center">
-    <a href="http://www.emohr.com">
-        <img src="http://www.emohr.com/images/p036a.gif">
-    </a>
-</p>
+<a href="http://www.emohr.com"><img src="http://www.emohr.com/images/p036a.gif"></a>
 
 Manfred Mohr, P-036, "White Noise", computer generated algorithmic plotter drawing, 1970
 
