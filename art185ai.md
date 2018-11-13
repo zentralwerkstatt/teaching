@@ -141,7 +141,7 @@ Weekly assignment: Create your own feature visualization images or generated tex
 
 ![](img/barbershop_256x5.png)
 
-Barbershops genrated with the BigGAN algorithm
+Barbershops genrated with the BigGAN algorithm (2018)
 
 - :book: Sarin, Helena, [Playing a game of GANstruction](https://thegradient.pub/playing-a-game-of-ganstruction/) (2018)
 - :computer: Class Jupyter notebook
