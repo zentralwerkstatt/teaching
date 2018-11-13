@@ -32,7 +32,8 @@ Please note: this syllabus is subject to change until the begin of the Winter qu
 ### 1/15: History of Computer Art, 1965
 
 ![](http://www.emohr.com/images/p036a.gif)
-[Source](http://www.emohr.com)
+
+Image by [Manfred Mohr](http://www.emohr.com)
 
 - :book: Nees, Georg, Computer-grafik (1965, German, translation [here](http://dada.compart-bremen.de/docUploads/Bense_Manifest.pdf), but browse the images in the original book)
 - :book: Klütsch, Christoph, Computer Graphic-Aesthetic Experiments Between Two Cultures (2007)
@@ -109,7 +110,7 @@ Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 30
 
 ![](https://farm4.staticflickr.com/3785/19159594410_596fb39d69_c.jpg)
 
-[Source](http://www.kylemcdonald.net/)
+Image by [Kyle McDonald](http://www.kylemcdonald.net/)
 
 - :book: Mordvintsev, Alexander et. al., [Inceptionism: Going Deeper into Neural Networks](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) (2015)
 - :computer: [https://github.com/google/deepdreamgoogle/deepdream](https://github.com/google/deepdreamgoogle/deepdream)
@@ -137,6 +138,8 @@ Weekly assignment: Create your own deep dream images by experimenting with *data
 Weekly assignment: Create your own feature visualization images or generated texts by experimenting with *datasets* and *hyperparameters* in the class notebooks.
 
 ### 3/12: GANs I
+
+Image by [Kyle McDonald](http://www.kylemcdonald.net/)
 
 - :book: Sarin, Helena, [Playing a game of GANstruction](https://thegradient.pub/playing-a-game-of-ganstruction/) (2018)
 - :computer: Class Jupyter notebook
