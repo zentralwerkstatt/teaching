@@ -34,7 +34,7 @@ Please note: this syllabus is subject to change until the begin of the Winter qu
 <p align="center">
   <img src="http://www.emohr.com/images/p036a.gif">
 </p>
-<p style="text-align: center; padding-top: 20px; padding-bottom: 20px">
+<p style="text-align: center">
     Manfred Mohr, P-036, "White Noise", computer generated algorithmic plotter drawing, 1970
 </p>
 
