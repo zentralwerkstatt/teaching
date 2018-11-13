@@ -31,6 +31,8 @@ Please note: this syllabus is subject to change until the begin of the Winter qu
 
 ### 1/15: History of Computer Art, 1965
 
+![Manfred Mohr, P-036, "White Noise", computer generated algorithmic plotter drawing, 1970](http://www.emohr.com/images/p036a.gif)
+
 - :book: Nees, Georg, Computer-grafik (1965, German, translation [here](http://dada.compart-bremen.de/docUploads/Bense_Manifest.pdf), but browse the images in the original book)
 - :book: Klütsch, Christoph, Computer Graphic-Aesthetic Experiments Between Two Cultures (2007)
 - :vhs: [Manfred Mohr video works playlist](https://www.youtube.com/playlist?list=PL_0LKGAwYuw7nT63wqzVLFvW2L4rw53qb)
@@ -87,7 +89,7 @@ Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 30
 
 ### 2/12: Hands-on Python I
 
-- Setting up
+- Setting up Miniconda/Jupyter/Colab
 
 ### 2/14: Hands-on Python II
 
@@ -99,7 +101,8 @@ Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 30
 
 ### 2/21: Hands-on Python IV
 
-- Deep learning tools and libraries
+- Introduction to Keras/TensorFlow
+- Introduction to [Google Seedbank](https://research.google.com/seedbank/)
 
 ### 2/26: Deep Dreaming I
 
