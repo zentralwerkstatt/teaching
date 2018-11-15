@@ -13,9 +13,10 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 ## Info 
 
 - No prior programming skills are required but an interest in building such skills is expected. 
-- Please note: this syllabus is subject to change until the begin of the Winter quarter. 
+- Please note: this syllabus is subject to change until the begin of the Winter quarter.
 - :book: = article/book/blog post, :computer: = close reading of source code, :vhs: = video.
-- Class code repository can be found here: https://github.com/zentralwerkstatt/ART185AI
+- Readings that are not linked here will be posted on GauchoSpace *with the beginning of class*
+- Class code repository will be availabe on GitHub *with the beginning of class*
 
 ## Syllabus
 
