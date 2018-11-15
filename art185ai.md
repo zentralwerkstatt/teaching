@@ -1,18 +1,21 @@
 # ART185AI: Machine Learning and the Arts
 
-Tuesdays and Thursdays, 9-10.50, Arts 1344
+Tuesdays and Thursdays, 9-10.50, Arts 1344. Office hours TBD.
 
 ## Description
 
-This class provides a high-level introduction to machine learning in art and art history. Many of the tasks that machine learning models are facing today are aesthetic tasks, ranging from the classification of images (CNNs) to the generation of completely new images (GANs). At the same time, the technical opacity of machine learning models makes it difficult to properly evaluate what exactly is being learned to solve these tasks. Hence, the once speculative phenomenological question "how does the machine perceive the world" has become a real-world problem. We will approach this problem by means of technical and philosophical close readings of contemporary machine learning algorithms. The first part of the class will explore the history and philosophy of computer-generated images, while the second part of the class will be dedicated to studying and replicating concrete machine learning results, mostly from the domain of image synthesis.
+This class provides a high-level introduction to machine learning for art and art history. Many of the tasks that machine learning models are facing today are aesthetic tasks, ranging from the classification of images (CNNs) to the generation of completely new images (GANs). At the same time, the technical opacity of machine learning models makes it difficult to properly evaluate what exactly is being learned to solve these tasks. Hence, the once speculative phenomenological question "how does the machine perceive the world" has become a real-world problem. We will approach this problem by means of technical and philosophical close readings of contemporary machine learning algorithms. The first part of the class will explore the history and philosophy of computer-generated images, while the second part of the class will be dedicated to studying and replicating concrete machine learning results, mostly from the domain of image synthesis. At the end of the class, participants will be able to evaluate future developments in machine learning for art and art history, as well as potentially integrate machine learning approaches into their own practice.
 
 ## Grading
 
-In-class participation: 25%, assignments: 25%, final project/paper: 50 %. Final project presentations 3/21, final projects/papers due 3/28. 
+In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 
 ## Info 
 
-No prior programming skills are required but an interest in building such skills is expected. Please note: this syllabus is subject to change until the begin of the Winter quarter. :book: = article/book/blog post, :computer: = close reading of source code, :vhs: = video. The class code repository can be found here: https://github.com/zentralwerkstatt/ART185AI.
+- No prior programming skills are required but an interest in building such skills is expected. 
+- Please note: this syllabus is subject to change until the begin of the Winter quarter. 
+- :book: = article/book/blog post, :computer: = close reading of source code, :vhs: = video.
+- Class code repository can be found here: https://github.com/zentralwerkstatt/ART185AI
 
 ## Syllabus
 
@@ -118,26 +121,22 @@ Deepdream experiment by [Kyle McDonald](http://www.kylemcdonald.net/) (2015)
 - :book: Rayner, Alex [Can Google’s Deep Dream Become an Art Machine?](https://www.theguardian.com/artanddesign/2016/mar/28/google-deep-dream-art), The Guardian (2016)
 - :book: [Pareidolia: Why We See Faces in Hills, the Moon and Toasties](https://www.bbc.com/news/magazine-22686500), BBC (2013)
 
-### 2/28: Deep Dreaming II
-
-- :computer: Class Jupyter notebook
-
-Weekly assignment: Create your own deep dream images by experimenting with *datasets* and *hyperparameters* in the class notebook.
-
-### 3/5: Feature Visualization
+### 2/28: Feature Visualization
 
 - :book: Olah, Chris, [Feature Visualization](https://distill.pub/2017/feature-visualization) (2017)
 - :book: Olah, Chris, [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks) (2018)
 - :computer: Class Jupyter notebook
 - :computer: Class Jupyter notebook
 
-### 3/7: Language Models
+Weekly assignment: Create your own deep dream or feature visualization images by experimenting with *datasets* and *hyperparameters* in the class notebook.
+
+### 3/5: Language Models
 
 - :computer: Class Jupyter notebook
 
 Weekly assignment: Create your own feature visualization images or generated texts by experimenting with *datasets* and *hyperparameters* in the class notebooks.
 
-### 3/12: GANs I
+### 3/7: GANs I
 
 ![](img/barbershop_256x5.png)
 
@@ -146,11 +145,13 @@ Barbershops genrated with the BigGAN algorithm (2018)
 - :book: Sarin, Helena, [Playing a game of GANstruction](https://thegradient.pub/playing-a-game-of-ganstruction/) (2018)
 - :computer: Class Jupyter notebook
 
-### 3/14: GANs II
+### 3/12: GANs II
 
 - :computer: Class Jupyter notebook
 
-Weekly assignment: Create your own GAN images by experimenting with *datasets* and *hyperparameters* in the class notebook.
+### 3/14: Final projects
+
+- Final project presentation
 
 ## Further Resources
 
