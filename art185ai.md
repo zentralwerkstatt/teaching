@@ -134,8 +134,6 @@ Weekly assignment: Create your own deep dream or feature visualization images by
 
 - :computer: Class Jupyter notebook
 
-Weekly assignment: Create your own feature visualization images or generated texts by experimenting with *datasets* and *hyperparameters* in the class notebooks.
-
 ### 3/7: GANs I
 
 ![](img/barbershop_256x5.png)
