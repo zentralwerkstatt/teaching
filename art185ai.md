@@ -25,10 +25,10 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 
 ### 1/10: The Current State of Machine Learning and the Arts
 
-- :book: Nake, Frieder, [There Should Be No Computer Art](http://computer-arts-society.com/uploads/page-18.pdf), PAGE 18 (1971)
-- :book: Vincent, James, [How Three French Students Used Borrowed Code to Put the First AI Portrait In Christie's](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans), The Verge (2018)
+- :book: Nake, Frieder, [There Should Be No Computer Art](http://computer-arts-society.com/uploads/page-18.pdf) (1971)
+- :book: Vincent, James, [How Three French Students Used Borrowed Code to Put the First AI Portrait In Christie's](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans) (2018)
 - :book: [Is Artificial Intelligence Set to Become Art’s Next Medium?](https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx
-), christies.com (2018)
+) (2018)
 - :book: [Has Artificial Intelligence Brought Us the Next Great Art Movement? Here Are 9 Pioneering Artists Who Are Exploring AI’s Creative Potential](https://news.artnet.com/market/9-artists-artificial-intelligence-1384207) (2018)
 - [Twitter discussion](https://twitter.com/DrBeef_/status/1055285640420483073) (2018)
 
@@ -72,13 +72,13 @@ Weekly assignment: 300-word analysis or reconstruction of artwork from one of th
 
 ### 1/29: Turing Test
 
-- :book: Turing, Alan M., [Computing Machinery and Intelligence](https://www.jstor.org/stable/2251299), Mind  (1950)
-- :book: Weizenbaum, Joseph, ELIZA. A computer program for the study of natural language communication between man and machine, Communications of the ACM 1, 9 (1966)
+- :book: Turing, Alan M., [Computing Machinery and Intelligence](https://www.jstor.org/stable/2251299) (1950)
+- :book: Weizenbaum, Joseph, ELIZA. A Computer Program for the Study of Natural Language Communication between Man and Machine (1966)
 
 ### 1/31: Chinese Room
 
 - :book: Searle, John R., Minds, Brains, and Programs (1980)
-- :book: Searle, John R., The Chinese Room, in: The MIT Encyclopedia of the Cognitive Sciences (1999)
+- :book: Searle, John R., The Chinese Room (1999)
 - :book: Cole, David, [The Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/) (2015)
 
 ### 2/5: Neural Networks
@@ -106,8 +106,7 @@ Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 30
 
 ### 2/21: Hands-on Python IV
 
-- Introduction to Keras/TensorFlow
-- Introduction to [Google Seedbank](https://research.google.com/seedbank/)
+- Introduction to Keras/TensorFlow/PyTorch/[Google Seedbank](https://research.google.com/seedbank/)
 
 ### 2/26: Deep Dreaming I
 
@@ -118,14 +117,12 @@ Deepdream experiment by [Kyle McDonald](http://www.kylemcdonald.net/) (2015)
 - :book: Mordvintsev, Alexander et. al., [Inceptionism: Going Deeper into Neural Networks](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) (2015)
 - :computer: [https://github.com/google/deepdreamgoogle/deepdream](https://github.com/google/deepdreamgoogle/deepdream)
 - :book: Chayka, Kyle [Why Google's Deep Dream is Future Kitsch](https://psmag.com/environment/googles-deep-dream-is-future-kitsch) (2015)
-- :book: Rayner, Alex [Can Google’s Deep Dream Become an Art Machine?](https://www.theguardian.com/artanddesign/2016/mar/28/google-deep-dream-art), The Guardian (2016)
-- :book: [Pareidolia: Why We See Faces in Hills, the Moon and Toasties](https://www.bbc.com/news/magazine-22686500), BBC (2013)
+- :book: Rayner, Alex [Can Google’s Deep Dream Become an Art Machine?](https://www.theguardian.com/artanddesign/2016/mar/28/google-deep-dream-art) (2016)
 
 ### 2/28: Feature Visualization
 
 - :book: Olah, Chris, [Feature Visualization](https://distill.pub/2017/feature-visualization) (2017)
 - :book: Olah, Chris, [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks) (2018)
-- :computer: Class Jupyter notebook
 - :computer: Class Jupyter notebook
 
 Weekly assignment: Create your own deep dream or feature visualization images by experimenting with *datasets* and *hyperparameters* in the class notebook.
