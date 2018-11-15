@@ -4,15 +4,15 @@ Tuesdays and Thursdays, 9-10.50, Arts 1344
 
 ## Description
 
-Artistic creation and neural networks have been rubbing shoulders for a long time, but today we are witnessing an explosion of interest in machine learning and aesthetics. Many of the tasks that machine learning models face today are aesthetic tasks, ranging from the classification of images (CNNs) to the generation of completely new images (GANs). At the same time, the technical opacity of machine learning models makes it difficult to properly evaluate their results. The once speculative question how does the machine perceive the world has become a real-world problem. This class provides a high-level introduction to the aesthetics, politics, and epistemology of machine learning, combining the close reading of texts and source code alike.
+This class provides a high-level introduction to machine learning in art and art history. Many of the tasks that machine learning models are facing today are aesthetic tasks, ranging from the classification of images (CNNs) to the generation of completely new images (GANs). At the same time, the technical opacity of machine learning models makes it difficult to properly evaluate what exactly is being learned to solve these tasks. Hence, the once speculative phenomenological question "how does the machine perceive the world" has become a real-world problem. We will approach this problem by means of technical and philosophical close readings of contemporary machine learning algorithms. The first part of the class will explore the history and philosophy of computer-generated images, while the second part of the class will be dedicated to studying and replicating concrete machine learning results, mostly from the domain of image synthesis.
 
 ## Grading
 
-In-class participation: 25%, assignments: 25%, final project/paper: 50 %. Final project presentations 3/21, final projects/papers due 3/28.
+In-class participation: 25%, assignments: 25%, final project/paper: 50 %. Final project presentations 3/21, final projects/papers due 3/28. 
 
 ## Info 
 
-Please note: this syllabus is subject to change until the begin of the Winter quarter. :book: stands for an article/book/blog post, :computer: stands for the close reading of source code, and :vhs: denotes a video. The class code repository can be found here: https://github.com/zentralwerkstatt/ART185AI.
+No prior programming skills are required but an interest in building such skills is expected. Please note: this syllabus is subject to change until the begin of the Winter quarter. :book: = article/book/blog post, :computer: = close reading of source code, :vhs: = video. The class code repository can be found here: https://github.com/zentralwerkstatt/ART185AI.
 
 ## Syllabus
 
