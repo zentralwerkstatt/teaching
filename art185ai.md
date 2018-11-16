@@ -111,7 +111,7 @@ Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 30
 
 ### 2/26: Deep Dream
 
-![](img/mcdonald_800x200)
+![](img/mcdonald_800x200.jpg)
 
 Deepdream experiment by [Kyle McDonald](http://www.kylemcdonald.net/) (2015)
 
@@ -134,7 +134,7 @@ Weekly assignment: Create your own deep dream or feature visualization images by
 
 ### 3/7: Style Transfer
 
-![](img/crespo_800x200)
+![](img/crespo_800x200.jpg)
 
 Style transfer art by [Sofia Crespo](https://www.instagram.com/soficrespo91/) (2018)
 
@@ -148,7 +148,6 @@ Barbershops genrated with the BigGAN algorithm (2018)
 
 - :book: Sarin, Helena, [Playing a game of GANstruction](https://thegradient.pub/playing-a-game-of-ganstruction/) (2018)
 - :computer: Class Jupyter notebook
-
 
 ### 3/14: Final projects
 
