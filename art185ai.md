@@ -134,6 +134,10 @@ Weekly assignment: Create your own deep dream or feature visualization images by
 
 ### 3/7: Style Transfer
 
+![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F51091686%2F146237922611%2F1%2Foriginal.jpg?w=800&auto=compress&rect=0%2C126%2C1388%2C694&s=c993719045ba46ceb5155e0d61143bf5)
+
+Style transfer art by [Sofia Crespo](https://www.instagram.com/soficrespo91/) (2018)
+
 - :computer: Class Jupyter notebook
 
 ### 3/12: GANs
