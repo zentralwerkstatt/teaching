@@ -109,7 +109,7 @@ Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 30
 
 - Introduction to Keras/TensorFlow/PyTorch/[Google Seedbank](https://research.google.com/seedbank/)
 
-### 2/26: Deep Dreaming I
+### 2/26: Deep Dream
 
 ![](https://farm4.staticflickr.com/3785/19159594410_596fb39d69_c.jpg)
 
@@ -133,8 +133,6 @@ Weekly assignment: Create your own deep dream or feature visualization images by
 - :computer: Class Jupyter notebook
 
 ### 3/7: Style Transfer
-
-
 
 - :computer: Class Jupyter notebook
 
