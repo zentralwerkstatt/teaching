@@ -132,7 +132,13 @@ Weekly assignment: Create your own deep dream or feature visualization images by
 
 - :computer: Class Jupyter notebook
 
-### 3/7: GANs I
+### 3/7: Style Transfer
+
+
+
+- :computer: Class Jupyter notebook
+
+### 3/12: GANs
 
 ![](img/barbershop_256x5.png)
 
@@ -141,9 +147,6 @@ Barbershops genrated with the BigGAN algorithm (2018)
 - :book: Sarin, Helena, [Playing a game of GANstruction](https://thegradient.pub/playing-a-game-of-ganstruction/) (2018)
 - :computer: Class Jupyter notebook
 
-### 3/12: GANs II
-
-- :computer: Class Jupyter notebook
 
 ### 3/14: Final projects
 
