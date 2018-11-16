@@ -42,9 +42,9 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 
 ### 1/17: History of Computer Art, 1970
 
-![](http://www.emohr.com/images/p036a.gif)
+![](img/mohr_800x200.jpg)
 
-[Manfred Mohr](http://www.emohr.com), P-036, "White Noise" (1970)
+Part of P-036, "White Noise" by [Manfred Mohr](http://www.emohr.com) (1970)
 
 - :vhs: [The Incredible Machine](https://www.youtube.com/watch?v=iwVu2BWLZqA) (1968)
 - :vhs: [Deactivation of HAL9000 from Stanley Kubrick's 2001: A Space Odyssey](https://www.youtube.com/watch?v=I1iRWKARwTY) (1968)
@@ -111,7 +111,7 @@ Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 30
 
 ### 2/26: Deep Dream
 
-![](https://farm4.staticflickr.com/3785/19159594410_596fb39d69_c.jpg)
+![](img/mcdonald_800x200)
 
 Deepdream experiment by [Kyle McDonald](http://www.kylemcdonald.net/) (2015)
 
@@ -134,7 +134,7 @@ Weekly assignment: Create your own deep dream or feature visualization images by
 
 ### 3/7: Style Transfer
 
-![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F51091686%2F146237922611%2F1%2Foriginal.jpg?w=800&auto=compress&rect=0%2C126%2C1388%2C694&s=c993719045ba46ceb5155e0d61143bf5)
+![](img/crespo_800x200)
 
 Style transfer art by [Sofia Crespo](https://www.instagram.com/soficrespo91/) (2018)
 
@@ -142,7 +142,7 @@ Style transfer art by [Sofia Crespo](https://www.instagram.com/soficrespo91/) (2
 
 ### 3/12: GANs
 
-![](img/barbershop_256x5.png)
+![](img/barbershop_800x200.jpg)
 
 Barbershops genrated with the BigGAN algorithm (2018)
 
