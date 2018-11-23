@@ -32,6 +32,7 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 ) (2018)
 - :book: [Has Artificial Intelligence Brought Us the Next Great Art Movement? Here Are 9 Pioneering Artists Who Are Exploring AI’s Creative Potential](https://news.artnet.com/market/9-artists-artificial-intelligence-1384207) (2018)
 - [Twitter discussion](https://twitter.com/DrBeef_/status/1055285640420483073) (2018)
+- :book: [We Made Our Own Artificial Intelligence Art, And So Can You](https://www.wired.com/story/we-made-artificial-intelligence-art-so-can-you/)
 
 ### 1/15: History of Computer Art, 1965
 
@@ -139,6 +140,7 @@ Weekly assignment: Create your own deep dream or feature visualization images by
 Style transfer art by [Sofia Crespo](https://www.instagram.com/soficrespo91/) (2018)
 
 - :computer: Class Jupyter notebook
+- Playground: https://reiinakano.github.io/arbitrary-image-stylization-tfjs/
 
 ### 3/12: GANs
 
@@ -148,6 +150,7 @@ Barbershops genrated with the BigGAN algorithm (2018)
 
 - :book: Sarin, Helena, [Playing a game of GANstruction](https://thegradient.pub/playing-a-game-of-ganstruction/) (2018)
 - :computer: Class Jupyter notebook
+- Playground: https://ganbreeder.app/
 
 ### 3/14: Final projects
 

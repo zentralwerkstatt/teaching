@@ -33,13 +33,12 @@
 - [Philosophy & Technology special issue: Rethinking Art and Aesthetics in the Age of Creative Machines](https://link.springer.com/journal/13347/30/3)
 - [The Neural Net Tank Urban Legend](https://www.gwern.net/Tanks)
 - [AI Magazine special issue on the Turing test](https://www.aaai.org/ojs/index.php/aimagazine/issue/view/213)
+- [Before you make a thing](https://jentery.github.io/ts200v2/notes.html)
 
 ## Technology
 
-- [Stanford CS221: Artificial Intelligence: Principles and Techniques](https://web.stanford.edu/class/cs221/)
-- [Stanford CS231: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/optimization-2/)
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - [Deep Learning book (Goodfellow)](http://www.deeplearningbook.org/)
-- [Deep Learning With Python book (Chollet)](https://www.manning.com/books/deep-learning-with-python)
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [MIT 6.080/6.089: Great Ideas in Theoretical Computer Science (taught by Scott Aaronsen)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-080-great-ideas-in-theoretical-computer-science-spring-2008/index.htm)
 - [Explanation of the mathematics behind GANs](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
