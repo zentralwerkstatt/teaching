@@ -40,6 +40,7 @@
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - [Deep Learning book (Goodfellow)](http://www.deeplearningbook.org/)
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [Amazon Machine Learning Course](https://aws.amazon.com/training/learning-paths/machine-learning/)
 - [MIT 6.080/6.089: Great Ideas in Theoretical Computer Science (taught by Scott Aaronsen)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-080-great-ideas-in-theoretical-computer-science-spring-2008/index.htm)
 - [Explanation of the mathematics behind GANs](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 - [An overview of gradient descent algorithms](http://ruder.io/optimizing-gradient-descent/)

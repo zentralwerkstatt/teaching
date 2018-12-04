@@ -132,6 +132,7 @@ Weekly assignment: Create your own deep dream or feature visualization images by
 ### 3/5: Language Models
 
 - :computer: Class Jupyter notebook
+- :computer: Playground: https://vusd.github.io/spacesheet/
 
 ### 3/7: Style Transfer
 
@@ -149,8 +150,10 @@ Style transfer art by [Sofia Crespo](https://www.instagram.com/soficrespo91/) (2
 Barbershops genrated with the BigGAN algorithm (2018)
 
 - :book: Sarin, Helena, [Playing a game of GANstruction](https://thegradient.pub/playing-a-game-of-ganstruction/) (2018)
+- :book: Atkne, Memo, [Deep meditations: a meaningful exploration of inner self, a controlled navigation of latent space](https://medium.com/@memoakten/deep-meditations-meaningful-exploration-of-ones-inner-self-576aab2f3894)
 - :computer: Class Jupyter notebook
 - :computer: Playground: https://ganbreeder.app/
+- :computer: Playground: http://gandissect.csail.mit.edu/
 
 ### 3/14: Final projects
 
