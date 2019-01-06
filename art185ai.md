@@ -83,6 +83,7 @@ Weekly assignment: 300-word analysis or reconstruction of artwork from one of th
 - :book: Searle, John R., Minds, Brains, and Programs (1980)
 - :book: Searle, John R., The Chinese Room (1999)
 - :book: Cole, David, [The Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/) (2015)
+- :book: Dijkstra, Edsger W., [On Anthropomorphism in Science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD09xx/EWD936.html) (1985)
 
 ### 2/5: Neural Networks
 
