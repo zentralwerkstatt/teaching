@@ -74,6 +74,7 @@ Weekly assignment: 300-word analysis or reconstruction of artwork from one of th
 
 ### 1/29: Turing Test
 
+- :book: Gaboury, Jacob, [A Queer History of Computing](http://rhizome.org/editorial/2013/feb/19/queer-computing-1/) (2013)
 - :book: Turing, Alan M., [Computing Machinery and Intelligence](https://www.jstor.org/stable/2251299) (1950)
 - :book: Weizenbaum, Joseph, ELIZA. A Computer Program for the Study of Natural Language Communication between Man and Machine (1966)
 
