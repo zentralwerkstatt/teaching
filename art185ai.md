@@ -22,7 +22,7 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 
 ### 1/8: Introduction
 
-- :vhs: [Superintelligence. The Idea That Eats Smart People](https://www.youtube.com/watch?v=kErHiET5YPw) (2016)
+- :vhs: [Superintelligence. The Idea That Eats Smart People](https://idlewords.com/talks/superintelligence.htm) (2016)
 
 ### 1/10: The Current State of Machine Learning and the Arts
 
@@ -150,7 +150,8 @@ Style transfer art by [Sofia Crespo](https://www.instagram.com/soficrespo91/) (2
 Barbershops genrated with the BigGAN algorithm (2018)
 
 - :book: Sarin, Helena, [Playing a game of GANstruction](https://thegradient.pub/playing-a-game-of-ganstruction/) (2018)
-- :book: Atkne, Memo, [Deep meditations: a meaningful exploration of inner self, a controlled navigation of latent space](https://medium.com/@memoakten/deep-meditations-meaningful-exploration-of-ones-inner-self-576aab2f3894)
+- :book: Atken, Memo, [Deep meditations: a meaningful exploration of inner self, a controlled navigation of latent space](https://medium.com/@memoakten/deep-meditations-meaningful-exploration-of-ones-inner-self-576aab2f3894)
+- :-book: McDonald, Kyle, [How to recognize fake AI-generated images](https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842)
 - :computer: Class Jupyter notebook
 - :computer: Playground: https://ganbreeder.app/
 - :computer: Playground: http://gandissect.csail.mit.edu/
