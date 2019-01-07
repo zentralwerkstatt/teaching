@@ -29,7 +29,6 @@
 ## History and Philosophy
 
 - [Philipp A. Agre's (archived) website](http://polaris.gseis.ucla.edu/pagre/)
-- [A Queer History of Computing](http://rhizome.org/editorial/2013/feb/19/queer-computing-1/)
 - [Philosophy & Technology special issue: Rethinking Art and Aesthetics in the Age of Creative Machines](https://link.springer.com/journal/13347/30/3)
 - [The Neural Net Tank Urban Legend](https://www.gwern.net/Tanks)
 - [AI Magazine special issue on the Turing test](https://www.aaai.org/ojs/index.php/aimagazine/issue/view/213)
