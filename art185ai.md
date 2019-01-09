@@ -23,7 +23,7 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 ### 1/8: Introduction
 
 - :book: [Superintelligence. The Idea That Eats Smart People](https://idlewords.com/talks/superintelligence.htm) (2016)
-- :vhs: [Superintelligence. The Idea That Eats Smart People]https://www.youtube.com/watch?v=kErHiET5YPw) (2016)
+- :vhs: [Superintelligence. The Idea That Eats Smart People](https://www.youtube.com/watch?v=kErHiET5YPw) (2016)
 
 ### 1/10: The Current State of Machine Learning and the Arts
 
