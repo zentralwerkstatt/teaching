@@ -22,7 +22,8 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 
 ### 1/8: Introduction
 
-- :vhs: [Superintelligence. The Idea That Eats Smart People](https://idlewords.com/talks/superintelligence.htm) (2016)
+- :book: [Superintelligence. The Idea That Eats Smart People](https://idlewords.com/talks/superintelligence.htm) (2016)
+- :vhs: [Superintelligence. The Idea That Eats Smart People]https://www.youtube.com/watch?v=kErHiET5YPw) (2016)
 
 ### 1/10: The Current State of Machine Learning and the Arts
 
@@ -33,6 +34,8 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 - :book: [Has Artificial Intelligence Brought Us the Next Great Art Movement? Here Are 9 Pioneering Artists Who Are Exploring AI’s Creative Potential](https://news.artnet.com/market/9-artists-artificial-intelligence-1384207) (2018)
 - [Twitter discussion](https://twitter.com/DrBeef_/status/1055285640420483073) (2018)
 - :book: [We Made Our Own Artificial Intelligence Art, And So Can You](https://www.wired.com/story/we-made-artificial-intelligence-art-so-can-you/)
+
+Weekly assignment: Find an artwork that has been made using computers. Briefly (300 words max.) describe the artwork and the role the computer has played in its production. Send an image of the work, a link to or description of where you found it, and the text to me until next Monday. We will review some of the works in class on Tuesday.
 
 ### 1/15: History of Computer Art, 1965
 
