@@ -35,7 +35,7 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 - [Twitter discussion](https://twitter.com/DrBeef_/status/1055285640420483073) (2018)
 - :book: [We Made Our Own Artificial Intelligence Art, And So Can You](https://www.wired.com/story/we-made-artificial-intelligence-art-so-can-you/)
 
-Weekly assignment: Find an artwork that has been made using computers. Briefly (300 words max.) describe the artwork and the role the computer has played in its production. Send an image of the work, a link to or description of where you found it, and the text to me until next Monday. We will review some of the works in class on Tuesday.
+Weekly assignment: Find an artwork that has been made using computers. Briefly (300 words max.) describe the artwork and the role the computer has played in its production. Send an image of the work and the description to me until next Monday at noon. We will review some of the works in class on Tuesday.
 
 ### 1/15: History of Computer Art, 1965
 
