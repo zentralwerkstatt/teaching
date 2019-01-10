@@ -37,22 +37,19 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 
 Weekly assignment: Find an artwork that has been made using computers. Briefly (300 words max.) describe the artwork and the role the computer has played in its production. Send an image of the work and the description to me until next Monday at noon. We will review some of the works in class on Tuesday.
 
-### 1/15: History of Computer Art, 1965
+### 1/15: History of Computer Art I
 
 - :book: Nees, Georg, Computer-grafik (1965, German, translation [here](http://dada.compart-bremen.de/docUploads/Bense_Manifest.pdf), but browse the images in the original book)
 - :book: Klütsch, Christoph, Computer Graphic-Aesthetic Experiments Between Two Cultures (2007)
+- :book: Higgins, Dick, Computers for the Arts (1968)
 - :vhs: [Manfred Mohr video works playlist](https://www.youtube.com/playlist?list=PL_0LKGAwYuw7nT63wqzVLFvW2L4rw53qb)
-- :vhs: [Manfed Mohr interview](https://www.youtube.com/watch?v=THaQGTMWhFA)
 
-### 1/17: History of Computer Art, 1970
+### 1/17: History of Computer Art II
 
 ![](img/mohr_800x200.jpg)
 
 Part of P-036, "White Noise" by [Manfred Mohr](http://www.emohr.com) (1970)
 
-- :vhs: [The Incredible Machine](https://www.youtube.com/watch?v=iwVu2BWLZqA) (1968)
-- :vhs: [Deactivation of HAL9000 from Stanley Kubrick's 2001: A Space Odyssey](https://www.youtube.com/watch?v=I1iRWKARwTY) (1968)
-- :book: Higgins, Dick, Computers for the Arts (1968)
 - :book: Klütsch, Christoph, The Summer 1968 in London and Zagreb: Starting or End Point for Computer Art? (2005)
 - :book: Cybernetic Serendipity: The Computer and the Arts (1969, 2018 reprint)
 - :book: Software. Information Technology: Its New Meaning for Art (1970)
