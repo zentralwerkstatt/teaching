@@ -26,7 +26,7 @@ Class GitHub repository: https://github.com/zentralwerkstatt/MAT594SP.
 ### 4/6: Artificial Intelligence as a Philosophical Project
 
 - :book: Turing, Alan M., [Computing Machinery and Intelligence](https://www.jstor.org/stable/2251299), Mind 59, no. 236 (1950), 433–60
-- :book: Searle, John R., [Minds, Brains, and {rograms](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DC644B47A4299C637C89772FACC2706A/S0140525X00005756a.pdf/minds_brains_and_programs.pdf), Behavioral and Brain Sciences 3, no. 3 (1980), 417–24
+- :book: Searle, John R., [Minds, Brains, and Programs](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DC644B47A4299C637C89772FACC2706A/S0140525X00005756a.pdf/minds_brains_and_programs.pdf), Behavioral and Brain Sciences 3, no. 3 (1980), 417–24
 - :book: Nagel, Thomas, [What It’s Like to Be a Bat](https://www.jstor.org/stable/2183914), The Philosophical Review 83, no. 4 (1974), 435–450
 - :book: Agre, Philip E., [The Soul Gained and Lost. Artificial Intelligence as a Philosophical Project](https://web.stanford.edu/group/SHR/4-2/text/agre.html), SEHR 4, no. 2 (1995)
 - :book: Agre, Philip E., [Toward a Critical Technical Practice: Lessons Learned in Trying to Reform AI](http://polaris.gseis.ucla.edu/pagre/critical.html) (1997)
