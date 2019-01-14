@@ -55,8 +55,6 @@ Part of P-036, "White Noise" by [Manfred Mohr](http://www.emohr.com) (1970)
 - :book: Software. Information Technology: Its New Meaning for Art (1970)
 - :book: New Tendencies 4: Computers and Visual Research (1970)
 
-Weekly assignment: 300-word analysis or reconstruction of artwork from one of the exhibition catalogs or from http://dada.compart-bremen.de/
-
 ### 1/22: Critical Technical Practice
 
 - :book: Oliver, Julian, [The Critical Engineering Manifesto](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp41-OliverSavicicVasiliev-TheCriticalEngineeringManifesto.pdf) (2012)
