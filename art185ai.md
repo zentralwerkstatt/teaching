@@ -33,18 +33,18 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 ) (2018)
 - :book: [Has Artificial Intelligence Brought Us the Next Great Art Movement? Here Are 9 Pioneering Artists Who Are Exploring AI’s Creative Potential](https://news.artnet.com/market/9-artists-artificial-intelligence-1384207) (2018)
 - [Twitter discussion](https://twitter.com/DrBeef_/status/1055285640420483073) (2018)
-- :book: [We Made Our Own Artificial Intelligence Art, And So Can You](https://www.wired.com/story/we-made-artificial-intelligence-art-so-can-you/)
+- :book: [We Made Our Own Artificial Intelligence Art, And So Can You](https://www.wired.com/story/we-made-artificial-intelligence-art-so-can-you/) (2018)
 
 Weekly assignment: Find an artwork that has been made using computers. Briefly (300 words max.) describe the artwork and the role the computer has played in its production. Send an image of the work and the description to me until next Monday at noon. We will review some of the works in class on Tuesday.
 
-### 1/15: History of Computer Art I
+### 1/15: History of Computer Art I: 1960s/1990s
 
 - :book: Nees, Georg, Computer-grafik (1965, German, translation [here](http://dada.compart-bremen.de/docUploads/Bense_Manifest.pdf), but browse the images in the original book)
 - :book: Klütsch, Christoph, Computer Graphic-Aesthetic Experiments Between Two Cultures (2007)
 - :book: Higgins, Dick, Computers for the Arts (1968)
 - :vhs: [Manfred Mohr video works playlist](https://www.youtube.com/playlist?list=PL_0LKGAwYuw7nT63wqzVLFvW2L4rw53qb)
 
-### 1/17: History of Computer Art II
+### 1/17: History of Computer Art II: 1960s/1990s
 
 ![](img/mohr_800x200.jpg)
 
@@ -150,8 +150,8 @@ Style transfer art by [Sofia Crespo](https://www.instagram.com/soficrespo91/) (2
 Barbershops genrated with the BigGAN algorithm (2018)
 
 - :book: Sarin, Helena, [Playing a game of GANstruction](https://thegradient.pub/playing-a-game-of-ganstruction/) (2018)
-- :book: Atken, Memo, [Deep meditations: a meaningful exploration of inner self, a controlled navigation of latent space](https://medium.com/@memoakten/deep-meditations-meaningful-exploration-of-ones-inner-self-576aab2f3894)
-- :book: McDonald, Kyle, [How to recognize fake AI-generated images](https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842)
+- :book: Atken, Memo, [Deep meditations: a meaningful exploration of inner self, a controlled navigation of latent space](https://medium.com/@memoakten/deep-meditations-meaningful-exploration-of-ones-inner-self-576aab2f3894) (2018)
+- :book: McDonald, Kyle, [How to recognize fake AI-generated images](https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842) (2018)
 - :computer: Class Jupyter notebook
 - :computer: Playground: https://ganbreeder.app/
 - :computer: Playground: http://gandissect.csail.mit.edu/
