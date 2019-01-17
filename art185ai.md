@@ -124,6 +124,7 @@ Deepdream experiment by [Kyle McDonald](http://www.kylemcdonald.net/) (2015)
 - :computer: [https://github.com/google/deepdreamgoogle/deepdream](https://github.com/google/deepdreamgoogle/deepdream)
 - :book: Chayka, Kyle [Why Google's Deep Dream is Future Kitsch](https://psmag.com/environment/googles-deep-dream-is-future-kitsch) (2015)
 - :book: Rayner, Alex [Can Google’s Deep Dream Become an Art Machine?](https://www.theguardian.com/artanddesign/2016/mar/28/google-deep-dream-art) (2016)
+- :vhs: [Neverending Story music video](https://www.youtube.com/watch?v=IVBmLRPiQjQ) (2019)
 
 ### 2/28: Feature Visualization
 
