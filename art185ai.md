@@ -83,19 +83,19 @@ Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 30
 
 ### 2/4: Hands-on Python I
 
-- Setting up Miniconda/Jupyter/Colab
+- :computer: Setting up Miniconda/Jupyter/Colab
 
 ### 2/7: Hands-on Python II
 
-- Basic concepts
+- :computer: Basic concepts
 
 ### 2/12: Hands-on Python III
 
-- Advanced concepts
+- :computer: Advanced concepts
 
 ### 2/14: Hands-on Python IV
 
-- Introduction to Keras/TensorFlow/PyTorch/[Google Seedbank](https://research.google.com/seedbank/)
+- :computer: Introduction to Keras/TensorFlow/PyTorch/[Google Seedbank](https://research.google.com/seedbank/)
 
 ## Syllabus III: Theory and Practice
 
