@@ -37,14 +37,14 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 
 Weekly assignment: Find an artwork that has been made using computers. Briefly (300 words max.) describe the artwork and the role the computer has played in its production. Send an image of the work and the description to me until next Monday at noon. We will review some of the works in class on Tuesday.
 
-### 1/15: History of Computer Art I: 1960s/1990s
+### 1/15: History of Computer Art I
 
 - :book: Nees, Georg, Computer-grafik (1965, German, translation [here](http://dada.compart-bremen.de/docUploads/Bense_Manifest.pdf), but browse the images in the original book)
 - :book: Klütsch, Christoph, Computer Graphic-Aesthetic Experiments Between Two Cultures (2007)
 - :book: Higgins, Dick, Computers for the Arts (1968)
 - :vhs: [Manfred Mohr video works playlist](https://www.youtube.com/playlist?list=PL_0LKGAwYuw7nT63wqzVLFvW2L4rw53qb)
 
-### 1/17: History of Computer Art II: 1960s/1990s
+### 1/17: History of Computer Art II
 
 ![](img/mohr_800x200.jpg)
 
