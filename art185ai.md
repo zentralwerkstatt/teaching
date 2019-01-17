@@ -18,7 +18,7 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 - Readings that are not linked here will be posted on GauchoSpace *with the beginning of class*
 - Class code repository will be availabe on GitHub *with the beginning of class*
 
-## Syllabus
+## Syllabus I: Theory
 
 ### 1/8: Introduction
 
@@ -55,13 +55,56 @@ Part of P-036, "White Noise" by [Manfred Mohr](http://www.emohr.com) (1970)
 - :book: Software. Information Technology: Its New Meaning for Art (1970)
 - :book: New Tendencies 4: Computers and Visual Research (1970)
 
-### 1/22: Critical Technical Practice
+### 1/22: Turing Test
 
-- :book: Oliver, Julian, [The Critical Engineering Manifesto](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp41-OliverSavicicVasiliev-TheCriticalEngineeringManifesto.pdf) (2012)
-- :book: Csikszentmihalyi, Chris, [Sixteen Reflective Bits](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp23to32-Csikszentmihalyi-SixteenReflectiveBits.pdf) (2012)
-- :book: Agre, Philip, [Toward a Critical Technical Practice: Lessons Learned in Trying to Reform AI](http://polaris.gseis.ucla.edu/pagre/critical.html) (1997)
+- :book: Gaboury, Jacob, [A Queer History of Computing](http://rhizome.org/editorial/2013/feb/19/queer-computing-1/) (2013)
+- :book: Turing, Alan M., [Computing Machinery and Intelligence](https://www.jstor.org/stable/2251299) (1950)
+- :book: Weizenbaum, Joseph, ELIZA. A Computer Program for the Study of Natural Language Communication between Man and Machine (1966)
 
-### 1/24: Bias
+### 1/24: Chinese Room
+
+- :book: Searle, John R., Minds, Brains, and Programs (1980)
+- :book: Searle, John R., The Chinese Room (1999)
+- :book: Cole, David, [The Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/) (2015)
+- :book: Dijkstra, Edsger W., [On Anthropomorphism in Science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD09xx/EWD936.html) (1985)
+
+### 1/29: Neural Networks
+
+- [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) (2016)
+- :vhs: [But What Is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk) (2017, parts 1-3)
+
+### 1/31: Deep Learning
+
+- :book: Andrey Kurenkov, [A 'Brief' History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/) (2015)
+
+## Syllabus II: Practice
+
+Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 300 words.
+
+### 2/4: Hands-on Python I
+
+- Setting up Miniconda/Jupyter/Colab
+
+### 2/7: Hands-on Python II
+
+- Basic concepts
+
+### 2/12: Hands-on Python III
+
+- Advanced concepts
+
+### 2/14: Hands-on Python IV
+
+- Introduction to Keras/TensorFlow/PyTorch/[Google Seedbank](https://research.google.com/seedbank/)
+
+## Syllabus III: Theory and Practice
+
+### 2/19: Language Models
+
+- :computer: Class Jupyter notebook
+- :computer: Playground: https://vusd.github.io/spacesheet
+
+### 2/21 Bias
 
 - :vhs: [The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk&t=698s) (2017)
 - :book: Murphy, Heather [Why Stanford Researchers Tried to Create a 'Gaydar' Machine](https://www.nytimes.com/2017/10/09/science/stanford-sexual-orientation-study.html), New York Times (2017)
@@ -69,46 +112,6 @@ Part of P-036, "White Noise" by [Manfred Mohr](http://www.emohr.com) (1970)
 - [Gender Shades](http://gendershades.org/)
 - Crispin, Sterling, [Data Masks](http://www.sterlingcrispin.com/data-masks.html) (2013-2015)
 - Blas, Zach, [Facial Weaponization Suite](http://www.zachblas.info/works/facial-weaponization-suite/) (2011-2014)
-
-### 1/29: Turing Test
-
-- :book: Gaboury, Jacob, [A Queer History of Computing](http://rhizome.org/editorial/2013/feb/19/queer-computing-1/) (2013)
-- :book: Turing, Alan M., [Computing Machinery and Intelligence](https://www.jstor.org/stable/2251299) (1950)
-- :book: Weizenbaum, Joseph, ELIZA. A Computer Program for the Study of Natural Language Communication between Man and Machine (1966)
-
-### 1/31: Chinese Room
-
-- :book: Searle, John R., Minds, Brains, and Programs (1980)
-- :book: Searle, John R., The Chinese Room (1999)
-- :book: Cole, David, [The Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/) (2015)
-- :book: Dijkstra, Edsger W., [On Anthropomorphism in Science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD09xx/EWD936.html) (1985)
-
-### 2/5: Neural Networks
-
-- [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) (2016)
-- :vhs: [But What Is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk) (2017, parts 1-3)
-
-### 2/7: Deep Learning
-
-- :book: Andrey Kurenkov, [A 'Brief' History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/) (2015)
-
-Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 300 words.
-
-### 2/12: Hands-on Python I
-
-- Setting up Miniconda/Jupyter/Colab
-
-### 2/14: Hands-on Python II
-
-- Basic concepts
-
-### 2/19: Hands-on Python III
-
-- Advanced concepts
-
-### 2/21: Hands-on Python IV
-
-- Introduction to Keras/TensorFlow/PyTorch/[Google Seedbank](https://research.google.com/seedbank/)
 
 ### 2/26: Deep Dream
 
@@ -129,10 +132,7 @@ Deepdream experiment by [Kyle McDonald](http://www.kylemcdonald.net/) (2015)
 
 Weekly assignment: Create your own deep dream or feature visualization images by experimenting with *datasets* and *hyperparameters* in the class notebook.
 
-### 3/5: Language Models
-
-- :computer: Class Jupyter notebook
-- :computer: Playground: https://vusd.github.io/spacesheet/
+### 3/5: TBD
 
 ### 3/7: Style Transfer
 
