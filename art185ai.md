@@ -77,9 +77,9 @@ Part of P-036, "White Noise" by [Manfred Mohr](http://www.emohr.com) (1970)
 
 - :book: Andrey Kurenkov, [A 'Brief' History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/) (2015)
 
-## Syllabus II: Practice
-
 Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 300 words.
+
+## Syllabus II: Practice
 
 ### 2/4: Hands-on Python I
 
@@ -112,6 +112,7 @@ Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 30
 - [Gender Shades](http://gendershades.org/)
 - Crispin, Sterling, [Data Masks](http://www.sterlingcrispin.com/data-masks.html) (2013-2015)
 - Blas, Zach, [Facial Weaponization Suite](http://www.zachblas.info/works/facial-weaponization-suite/) (2011-2014)
+- :computer: [How to Make a Racist AI without Really Trying](http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/)
 
 ### 2/26: Deep Dream
 
