@@ -55,6 +55,8 @@ Part of P-036, "White Noise" by [Manfred Mohr](http://www.emohr.com) (1970)
 - :book: Software. Information Technology: Its New Meaning for Art (1970)
 - :book: New Tendencies 4: Computers and Visual Research (1970)
 
+Weekly assignment: Carefully prepare the readings for next week. Research unfamiliar concepts and note questions. Brief quiz on "Computing Machinery and Intelligence" next week.
+
 ### 1/22: Turing Test
 
 - :book: Gaboury, Jacob, [A Queer History of Computing](http://rhizome.org/editorial/2013/feb/19/queer-computing-1/) (2013)
