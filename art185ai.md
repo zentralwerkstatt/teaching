@@ -59,47 +59,46 @@ Part of P-036, "White Noise" by [Manfred Mohr](http://www.emohr.com) (1970)
 
 Weekly assignment: Carefully prepare the readings for next week. Research unfamiliar concepts and note questions. Brief quiz on "Computing Machinery and Intelligence" next week.
 
-### 1/22: Turing Test
+### 1/22: Turing Test and Chinese Room
 
 - :book: Gaboury, Jacob, [A Queer History of Computing](http://rhizome.org/editorial/2013/feb/19/queer-computing-1/) (2013)
 - :book: Turing, Alan M., [Computing Machinery and Intelligence](https://www.jstor.org/stable/2251299) (1950)
 - :book: Weizenbaum, Joseph, ELIZA. A Computer Program for the Study of Natural Language Communication between Man and Machine (1966)
-
-### 1/24: Chinese Room
-
-- :book: Searle, John R., Minds, Brains, and Programs (1980)
-- :book: Searle, John R., The Chinese Room (1999)
-- :book: Cole, David, [The Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/) (2015)
 - :book: Dijkstra, Edsger W., [On Anthropomorphism in Science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD09xx/EWD936.html) (1985)
 
-### 1/29: Neural Networks
+### 1/24: Neural Networks
 
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) (2016)
 - :vhs: [But What Is a Neural Network?](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (2017, parts 1-4)
-
-### 1/31: Deep Learning
-
 - :book: Andrey Kurenkov, [A 'Brief' History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/) (2015)
 
 Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 300 words.
 
 ## Syllabus II: Practice
 
-### 2/4: Hands-on Python I
+### 1/29: Hands-on Python I
 
 - :computer: Setting up Miniconda/Jupyter/Colab
 
-### 2/7: Hands-on Python II
+### 1/31: Hands-on Python II
 
 - :computer: Basic concepts
 
-### 2/12: Hands-on Python III
+### 2/4: Hands-on Python III
 
-- :computer: Advanced concepts
+- :computer: Basic concepts
 
-### 2/14: Hands-on Python IV
+### 2/7: Hands-on Python IV
+
+- :computer: Basic concepts
+
+### 2/12: Hands-on Python V
 
 - :computer: Introduction to Keras/TensorFlow/PyTorch/[Google Seedbank](https://research.google.com/seedbank/)
+
+### 2/14: Hands-on Python VI
+
+- :computer: Deep Learning
 
 ## Syllabus III: Theory and Practice
 
