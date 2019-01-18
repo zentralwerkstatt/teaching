@@ -2,6 +2,8 @@
 
 Wednesdays and Fridays, 2-4, Elings 2003
 
+Email: offert@ucsb.edu
+
 ## Description
 
 The class starts from a basic hypothesis, put forward by Philip Agre in the late 1990s: ["AI is philosophy underneath"](https://web.stanford.edu/group/SHR/4-2/text/agre.html). Given the rapid development of the field since 2012, does this hypothesis hold? When we talk about artificial intelligence today, we talk about highly specialized machine learning models. Unlike in the 1990s, the primary function of these models is not the mechanization of reason but the mechanization of perception, most prominently the mechanization of vision. As a consequence, the tasks that many machine learning models operate on are aesthetic tasks, ranging from the classification of images in regard to their content and form to the generation of completely new images.
