@@ -15,10 +15,9 @@ In-class participation: 25%, assignments: 25%, final project/paper: 50 %.
 ## Info 
 
 - No prior programming skills are required but an interest in building such skills is expected. 
-- Please note: this syllabus is subject to change until the begin of the Winter quarter.
 - :book: = article/book/blog post, :computer: = close reading of source code, :vhs: = video (we will watch this together in class).
-- Readings that are not linked here will be posted on GauchoSpace *with the beginning of class*
-- Class code repository will be availabe on GitHub *with the beginning of class*
+- Slides and readings that are not linked here for copyright reasons will be posted on GauchoSpace: [https://gauchospace.ucsb.edu/courses/course/view.php?id=37398](https://gauchospace.ucsb.edu/courses/course/view.php?id=37398)
+- Class code repository will be availabe on GitHub *with the beginning of part II*
 
 ## Syllabus I: Theory
 
