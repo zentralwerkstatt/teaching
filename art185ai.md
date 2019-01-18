@@ -90,7 +90,7 @@ Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 30
 
 ### 2/7: Hands-on Python IV
 
-- :computer: Basic concepts
+- :computer: Advanced concepts
 
 ### 2/12: Hands-on Python V
 
