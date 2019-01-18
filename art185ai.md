@@ -2,6 +2,8 @@
 
 Tuesdays and Thursdays, 9-10.50, Arts 1344. Office hours TBD.
 
+EMAIL!!!
+
 ## Description
 
 This class provides a high-level introduction to machine learning for art and art history. Many of the tasks that machine learning models are facing today are aesthetic tasks, ranging from the classification of images (CNNs) to the generation of completely new images (GANs). At the same time, the technical opacity of machine learning models makes it difficult to properly evaluate what exactly is being learned to solve these tasks. Hence, the once speculative phenomenological question "how does the machine perceive the world" has become a real-world problem. We will approach this problem by means of technical and critical close readings of contemporary machine learning algorithms. The first part of the class will explore the history and philosophy of computer-generated images, while the second part of the class will be dedicated to studying and replicating concrete machine learning results, mostly from the domain of image synthesis. At the end of the class, participants will be able to evaluate future developments in machine learning for art and art history, as well as potentially integrate machine learning approaches into their own practice.
@@ -73,7 +75,7 @@ Weekly assignment: Carefully prepare the readings for next week. Research unfami
 ### 1/29: Neural Networks
 
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) (2016)
-- :vhs: [But What Is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk) (2017, parts 1-3)
+- :vhs: [But What Is a Neural Network?](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (2017, parts 1-4)
 
 ### 1/31: Deep Learning
 
