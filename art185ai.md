@@ -1,8 +1,7 @@
 # ART185AI: Machine Learning and the Arts
 
 Tuesdays and Thursdays, 9-10.50, Arts 1344. Office hours TBD.
-
-EMAIL!!!
+Email: offert@ucsb.edu
 
 ## Description
 
