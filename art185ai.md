@@ -71,8 +71,6 @@ Weekly assignment: Carefully prepare the readings for next week. Research unfami
 - :vhs: [But What Is a Neural Network?](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (2017, parts 1-4)
 - :book: Andrey Kurenkov, [A 'Brief' History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/) (2015)
 
-Weekly assignment: Read a current ML paper from arxiv.org and summarize it in 300 words.
-
 ## Syllabus II: Practice
 
 ### 1/29: Hands-on Python I
