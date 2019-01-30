@@ -75,7 +75,7 @@ Weekly assignment: Carefully prepare the readings for next week. Research unfami
 
 ### 1/29: Hands-on Python I
 
-- :computer: Setting up Miniconda/Jupyter/Colab
+- :computer: [Setting up Miniconda/Jupyter/PyTorch](https://github.com/zentralwerkstatt/ART185AI/blob/master/L00_Setup.md)
 
 ### 1/31: Hands-on Python II
 
