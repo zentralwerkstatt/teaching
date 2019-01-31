@@ -75,15 +75,15 @@ Weekly assignment: Carefully prepare the readings for next week. Research unfami
 
 ### 1/29: Hands-on Python I
 
-- :computer: [Setting up Miniconda/Jupyter/PyTorch](https://github.com/zentralwerkstatt/ART185AI/blob/master/L00_Setup.md)
+- :computer: Setting up: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L00_Setup.md) / Code
 
 ### 1/31: Hands-on Python II
 
-- :computer: Basic concepts
+- :computer: Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L01_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N01_Basics.ipynb)
 
 ### 2/4: Hands-on Python III
 
-- :computer: Basic concepts
+- :computer: Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L02_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
 
 ### 2/7: Hands-on Python IV
 
