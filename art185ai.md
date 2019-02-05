@@ -81,19 +81,15 @@ Weekly assignment: Carefully prepare the readings for next week. Research unfami
 
 - :computer: Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L01_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N01_Basics.ipynb)
 
-### 2/4: Hands-on Python III
+### 2/7: Hands-on Python III
 
 - :computer: Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L02_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
 
-### 2/7: Hands-on Python IV
-
-- :computer: Advanced concepts
-
-### 2/12: Hands-on Python V
+### 2/12: Hands-on Python IV
 
 - :computer: Introduction to Keras/TensorFlow/PyTorch/[Google Seedbank](https://research.google.com/seedbank/)
 
-### 2/14: Hands-on Python VI
+### 2/14: Hands-on Python V
 
 - :computer: Deep Learning
 
