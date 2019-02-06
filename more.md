@@ -14,8 +14,13 @@
 - [Toward Ethical, Transparent and Fair AI/ML: A Critical Reading List](https://medium.com/@eirinimalliaraki/toward-ethical-transparent-and-fair-ai-ml-a-critical-reading-list-d950e70a70ea)
 - [Mirror Mirror. Reflections on Quantitative Fairness](https://shiraamitchell.github.io/fairness/)
 - [FAT 2018 conference proceedings](http://proceedings.mlr.press/v81/)
+- [FAT 2019 accepted papers](https://fatconference.org/2019/acceptedpapers.html)
 - [Critical Algorithm Studies reading list](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
 - [Anatomy of an AI System]( https://anatomyof.ai)
+- [Sorelle Friedler's website](http://sorelle.friedler.net/)
+- [Hannah Wallch's website](http://dirichlet.net/publications/)
+- [Kate Crawford's website](https://www.katecrawford.net/pubs.html)
+- [Jennifer Wortman Vaughan's website](http://www.jennwv.com/pubs.html)
 
 ## Art
 
