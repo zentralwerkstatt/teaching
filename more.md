@@ -49,3 +49,5 @@
 - [Explanation of the mathematics behind GANs](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 - [An overview of gradient descent algorithms](http://ruder.io/optimizing-gradient-descent/)
 - [Academic Torrents datasets](http://academictorrents.com)
+- [AI Fiddle: Machine Learning in the Browser](https://aifiddle.io/)
+- [Papers with Code](https://paperswithcode.com/greatest)
