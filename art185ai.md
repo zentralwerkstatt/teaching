@@ -93,7 +93,7 @@ Weekly assignment: Finish the in-class exercies and push to the lab repository.
 
 - :computer: Advanced concepts: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L03_Advanced.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N03_Advanced.ipynb)
 - :computer: Introduction to [Keras](https://keras.io/)/[TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Google Seedbank](https://research.google.com/seedbank/)
-- :computer: [Building/reading a working MNIST classifier](https://github.com/zentralwerkstatt/ART185AI/blob/master/N03_MNIST.ipynb)
+- :computer: [Building/reading a working MNIST classifier](https://github.com/zentralwerkstatt/ART185AI/blob/master/N04_MNIST.ipynb)
 
 ## Syllabus III: Theory and Practice
 
