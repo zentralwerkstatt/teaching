@@ -51,3 +51,4 @@
 - [Academic Torrents datasets](http://academictorrents.com)
 - [AI Fiddle: Machine Learning in the Browser](https://aifiddle.io/)
 - [Papers with Code](https://paperswithcode.com/greatest)
+- [SpaceSheet latent space explorer](https://vusd.github.io/spacesheet/)

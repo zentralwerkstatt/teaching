@@ -81,36 +81,32 @@ Weekly assignment: Carefully prepare the readings for next week. Research unfami
 
 - :computer: Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L01_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N01_Basics.ipynb)
 
+Weekly assignment: Finish the in-class exercies and push to the lab repository.
+
 ### 2/7: Hands-on Python III
 
 - :computer: Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L02_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
 
+Weekly assignment: Finish the in-class exercies and push to the lab repository.
+
 ### 2/12: Hands-on Python IV
 
-- :computer: Introduction to Keras/TensorFlow/PyTorch/[Google Seedbank](https://research.google.com/seedbank/)
-
-### 2/14: Hands-on Python V
-
-- :computer: Deep Learning
+- :computer: Advanced concepts: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L03_Advanced.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N03_Advanced.ipynb)
+- :computer: Introduction to [Keras](https://keras.io/)/[TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Google Seedbank](https://research.google.com/seedbank/)
+- :computer: Building/reading a working MNIST classifier
 
 ## Syllabus III: Theory and Practice
 
-### 2/19: Language Models
+### 2/14: Language Models
 
+- :book: Karpathy, Andrej, [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (2015)
+- https://www.khanacademy.org/computing/computer-science/informationtheory
+- :computer: Goldberg, Yoav, [The Unreasonable Effectiveness of Character-level Language Models](http://nbviewer.jupyter.org/gist/yoavg/d76121dfde2618422139)
 - :computer: Class Jupyter notebook
-- :computer: Playground: https://vusd.github.io/spacesheet
 
-### 2/21 Bias
+Weekly assignment: First final project proposal abstract (300 words) due next week.
 
-- :vhs: [The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk&t=698s) (2017)
-- :book: Murphy, Heather [Why Stanford Researchers Tried to Create a 'Gaydar' Machine](https://www.nytimes.com/2017/10/09/science/stanford-sexual-orientation-study.html), New York Times (2017)
-- :book: Mattson, Greggor [Artificial Intelligence Discovers Gayface. Sigh](https://greggormattson.com/2017/09/09/artificial-intelligence-discovers-gayface/) (2017)
-- [Gender Shades](http://gendershades.org/)
-- Crispin, Sterling, [Data Masks](http://www.sterlingcrispin.com/data-masks.html) (2013-2015)
-- Blas, Zach, [Facial Weaponization Suite](http://www.zachblas.info/works/facial-weaponization-suite/) (2011-2014)
-- :computer: [How to Make a Racist AI without Really Trying](http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/)
-
-### 2/26: Deep Dream
+### 2/19: Deep Dream
 
 ![](img/mcdonald_800x200.jpg)
 
@@ -122,7 +118,7 @@ Deepdream experiment by [Kyle McDonald](http://www.kylemcdonald.net/) (2015)
 - :book: Rayner, Alex [Can Google’s Deep Dream Become an Art Machine?](https://www.theguardian.com/artanddesign/2016/mar/28/google-deep-dream-art) (2016)
 - :vhs: [Neverending Story music video](https://www.youtube.com/watch?v=IVBmLRPiQjQ) (2019)
 
-### 2/28: Feature Visualization
+### 2/21: Feature Visualization
 
 - :book: Olah, Chris, [Feature Visualization](https://distill.pub/2017/feature-visualization) (2017)
 - :book: Olah, Chris, [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks) (2018)
@@ -130,7 +126,25 @@ Deepdream experiment by [Kyle McDonald](http://www.kylemcdonald.net/) (2015)
 
 Weekly assignment: Create your own deep dream or feature visualization images by experimenting with *datasets* and *hyperparameters* in the class notebook.
 
-### 3/5: TBD
+### 2/26 Bias and Interpretability I
+
+- :vhs: [The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk&t=698s) (2017)
+- :book: Murphy, Heather [Why Stanford Researchers Tried to Create a 'Gaydar' Machine](https://www.nytimes.com/2017/10/09/science/stanford-sexual-orientation-study.html), New York Times (2017)
+- :book: Mattson, Greggor [Artificial Intelligence Discovers Gayface. Sigh](https://greggormattson.com/2017/09/09/artificial-intelligence-discovers-gayface/) (2017)
+- [Gender Shades](http://gendershades.org/)
+
+### 2/28 Bias and Interpretability II
+
+- :computer: [How to Make a Racist AI without Really Trying](http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/)
+- :book: Selbst, Andrew D. et. al., [The Intuitive Appeal of Explainable Machines](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3126971) (2018)
+- :book: Frank Pasquale, The Black Box Society (2015), excerpts
+- [EU GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN)
+
+Weekly assignment: Final project proposal due next week.
+
+### 3/5: No class
+
+- Conference at Humboldt University, Berlin
 
 ### 3/7: Style Transfer
 
