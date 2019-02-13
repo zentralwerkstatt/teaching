@@ -85,7 +85,7 @@ Weekly assignment: Finish the in-class exercies and push to the lab repository.
 
 ### 2/7: Hands-on Python III
 
-- :computer: [Basic Concepts II]](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
+- :computer: [Basic Concepts II](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
 
 Weekly assignment: Finish the in-class exercies and push to the lab repository.
 
