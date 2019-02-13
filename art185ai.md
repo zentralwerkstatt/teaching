@@ -75,25 +75,25 @@ Weekly assignment: Carefully prepare the readings for next week. Research unfami
 
 ### 1/29: Hands-on Python I
 
-- :computer: Setting up: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L00_Setup.md) / Code
+- :computer: [Setting Up](https://github.com/zentralwerkstatt/ART185AI/blob/master/N00_Setup.ipynb)
 
 ### 1/31: Hands-on Python II
 
-- :computer: Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L01_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N01_Basics.ipynb)
+- :computer: [Basics Concepts I](https://github.com/zentralwerkstatt/ART185AI/blob/master/N01_Basics.ipynb)
 
 Weekly assignment: Finish the in-class exercies and push to the lab repository.
 
 ### 2/7: Hands-on Python III
 
-- :computer: Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L02_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
+- :computer: [Basic Concepts II]](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
 
 Weekly assignment: Finish the in-class exercies and push to the lab repository.
 
 ### 2/12: Hands-on Python IV
 
-- :computer: Advanced concepts: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L03_Advanced.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N03_Advanced.ipynb)
+- :computer: [Advanced Concepts](https://github.com/zentralwerkstatt/ART185AI/blob/master/N03_Advanced.ipynb)
 - :computer: Introduction to [Keras](https://keras.io/)/[TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Google Seedbank](https://research.google.com/seedbank/)
-- :computer: [Building/reading a working MNIST classifier](https://github.com/zentralwerkstatt/ART185AI/blob/master/N04_MNIST.ipynb)
+- :computer: [Building/Reading a Working MNIST Classifier](https://github.com/zentralwerkstatt/ART185AI/blob/master/N04_MNIST.ipynb)
 
 ## Syllabus III: Theory and Practice
 
