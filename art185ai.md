@@ -105,7 +105,6 @@ Weekly assignment: First final project proposal abstract (300 words) due next we
 ### 2/19: Language Models
 
 - :book: Karpathy, Andrej, [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (2015)
-- https://www.khanacademy.org/computing/computer-science/informationtheory
 - :computer: Goldberg, Yoav, [The Unreasonable Effectiveness of Character-level Language Models](http://nbviewer.jupyter.org/gist/yoavg/d76121dfde2618422139)
 - :computer: Class Jupyter notebook
 
