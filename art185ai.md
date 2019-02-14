@@ -92,21 +92,24 @@ Weekly assignment: Finish the in-class exercies and push to the lab repository.
 ### 2/12: Hands-on Python IV
 
 - :computer: [Advanced Concepts](https://github.com/zentralwerkstatt/ART185AI/blob/master/N03_Advanced.ipynb)
+
+### 2/14: Hands-on Python V
+
 - :computer: Introduction to [Keras](https://keras.io/)/[TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Google Seedbank](https://research.google.com/seedbank/)
 - :computer: [Building/Reading a Working MNIST Classifier](https://github.com/zentralwerkstatt/ART185AI/blob/master/N04_MNIST.ipynb)
 
+Weekly assignment: First final project proposal abstract (300 words) due next week.
+
 ## Syllabus III: Theory and Practice
 
-### 2/14: Language Models
+### 2/19: Language Models
 
 - :book: Karpathy, Andrej, [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (2015)
 - https://www.khanacademy.org/computing/computer-science/informationtheory
 - :computer: Goldberg, Yoav, [The Unreasonable Effectiveness of Character-level Language Models](http://nbviewer.jupyter.org/gist/yoavg/d76121dfde2618422139)
 - :computer: Class Jupyter notebook
 
-Weekly assignment: First final project proposal abstract (300 words) due next week.
-
-### 2/19: Deep Dream
+### 2/21: Deep Dream
 
 ![](img/mcdonald_800x200.jpg)
 
@@ -118,29 +121,24 @@ Deepdream experiment by [Kyle McDonald](http://www.kylemcdonald.net/) (2015)
 - :book: Rayner, Alex [Can Google’s Deep Dream Become an Art Machine?](https://www.theguardian.com/artanddesign/2016/mar/28/google-deep-dream-art) (2016)
 - :vhs: [Neverending Story music video](https://www.youtube.com/watch?v=IVBmLRPiQjQ) (2019)
 
-### 2/21: Feature Visualization
+Weekly assignment: Final project proposal due next week.
+
+### 2/26: Feature Visualization
 
 - :book: Olah, Chris, [Feature Visualization](https://distill.pub/2017/feature-visualization) (2017)
 - :book: Olah, Chris, [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks) (2018)
 - :computer: Class Jupyter notebook
 
-Weekly assignment: Create your own deep dream or feature visualization images by experimenting with *datasets* and *hyperparameters* in the class notebook.
-
-### 2/26 Bias and Interpretability I
+### 2/28 Bias and Interpretability
 
 - :vhs: [The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk&t=698s) (2017)
 - :book: Murphy, Heather [Why Stanford Researchers Tried to Create a 'Gaydar' Machine](https://www.nytimes.com/2017/10/09/science/stanford-sexual-orientation-study.html), New York Times (2017)
 - :book: Mattson, Greggor [Artificial Intelligence Discovers Gayface. Sigh](https://greggormattson.com/2017/09/09/artificial-intelligence-discovers-gayface/) (2017)
 - [Gender Shades](http://gendershades.org/)
-
-### 2/28 Bias and Interpretability II
-
 - :computer: [How to Make a Racist AI without Really Trying](http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/)
 - :book: Selbst, Andrew D. et. al., [The Intuitive Appeal of Explainable Machines](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3126971) (2018)
 - :book: Frank Pasquale, The Black Box Society (2015), excerpts
 - [EU GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN)
-
-Weekly assignment: Final project proposal due next week.
 
 ### 3/5: No class
 
