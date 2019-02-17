@@ -104,6 +104,7 @@ Weekly assignment: First final project proposal abstract (300 words) due next we
 
 ### 2/19: Language Models
 
+- :book: Lipton, Zachary C., [OpenAI Trains Language Model, Mass Hysteria Ensues](http://approximatelycorrect.com/2019/02/17/openai-trains-language-model-mass-hysteria-ensues/)
 - :book: Karpathy, Andrej, [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (2015)
 - :computer: Goldberg, Yoav, [The Unreasonable Effectiveness of Character-level Language Models](http://nbviewer.jupyter.org/gist/yoavg/d76121dfde2618422139)
 - :computer: Class Jupyter notebook
