@@ -81,13 +81,13 @@ Weekly assignment: Carefully prepare the readings for next week. Research unfami
 
 - :computer: [Basics Concepts I](https://github.com/zentralwerkstatt/ART185AI/blob/master/N01_Basics.ipynb)
 
-Weekly assignment: Finish the in-class exercies and push to the lab repository.
+Weekly assignment (not graded): Finish the in-class exercies and push to the lab repository.
 
 ### 2/7: Hands-on Python III
 
 - :computer: [Basic Concepts II](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
 
-Weekly assignment: Finish the in-class exercies and push to the lab repository.
+Weekly assignment (not graded): Finish the in-class exercies and push to the lab repository.
 
 ### 2/12: Hands-on Python IV
 
