@@ -142,7 +142,7 @@ Weekly assignment: Final project proposal due next week.
 
 ### 3/5: No class
 
-- Conference at Humboldt University, Berlin
+- Fabian at Humboldt University, Berlin. Please use the time to work on your final projects.
 
 ### 3/7: Style Transfer
 
