@@ -107,7 +107,7 @@ Weekly assignment: First final project proposal abstract (300 words) due next we
 - :book: Lipton, Zachary C., [OpenAI Trains Language Model, Mass Hysteria Ensues](http://approximatelycorrect.com/2019/02/17/openai-trains-language-model-mass-hysteria-ensues/) (2019)
 - :book: Karpathy, Andrej, [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (2015)
 - :computer: Goldberg, Yoav, [The Unreasonable Effectiveness of Character-level Language Models](http://nbviewer.jupyter.org/gist/yoavg/d76121dfde2618422139) (2015)
-- :computer: Class Jupyter notebook
+- :computer: [Class Jupyter Notebook](https://github.com/zentralwerkstatt/ART185AI/blob/master/N05_NLP.ipynb)
 
 ### 2/21: Deep Dream
 
@@ -121,6 +121,7 @@ Deepdream experiment by [Kyle McDonald](http://www.kylemcdonald.net/) (2015)
 - :book: Chayka, Kyle [Why Google's Deep Dream is Future Kitsch](https://psmag.com/environment/googles-deep-dream-is-future-kitsch) (2015)
 - :book: Rayner, Alex [Can Google’s Deep Dream Become an Art Machine?](https://www.theguardian.com/artanddesign/2016/mar/28/google-deep-dream-art) (2016)
 - :vhs: [Neverending Story music video](https://www.youtube.com/watch?v=IVBmLRPiQjQ) (2019)
+- :computer: [Class Jupyter Notebook](https://github.com/zentralwerkstatt/ART185AI/blob/master/N06_Deepdream.ipynb)
 
 Weekly assignment: Final project proposal due next week.
 
