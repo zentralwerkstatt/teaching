@@ -98,7 +98,7 @@ Weekly assignment (not graded): Finish the in-class exercies and push to the lab
 - :computer: Introduction to [Keras](https://keras.io/)/[TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Google Seedbank](https://research.google.com/seedbank/)
 - :computer: [Building/Reading a Working MNIST Classifier](https://github.com/zentralwerkstatt/ART185AI/blob/master/N04_MNIST.ipynb)
 
-Weekly assignment: First final project proposal abstract (300 words) due next week.
+Weekly assignment: First final project proposal abstract (300 words), due Thursday next week.
 
 ## Syllabus III: Theory and Practice
 
@@ -123,7 +123,7 @@ Deepdream experiment by [Kyle McDonald](http://www.kylemcdonald.net/) (2015)
 - :vhs: [Neverending Story music video](https://www.youtube.com/watch?v=IVBmLRPiQjQ) (2019)
 - :computer: [Class Jupyter Notebook](https://github.com/zentralwerkstatt/ART185AI/blob/master/N06_Deepdream.ipynb)
 
-Weekly assignment: Final project proposal due next week.
+Weekly assignment: Create your own (interesting) deep dream image(s), due Tuesday next week.
 
 ### 2/26: Feature Visualization
 
@@ -141,6 +141,8 @@ Weekly assignment: Final project proposal due next week.
 - :book: Selbst, Andrew D. et. al., [The Intuitive Appeal of Explainable Machines](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3126971) (2018)
 - :book: Frank Pasquale, The Black Box Society (2015), excerpts
 - [EU GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN)
+
+Weekly assignment: Final project proposal (1-2 pages) due next week. Sections to include: project description, technical component, critical component, feasability.
 
 ### 3/5: No class
 
