@@ -129,7 +129,7 @@ Weekly assignment: Create your own (interesting) deep dream image(s), due Tuesda
 
 - :book: Olah, Chris, [Feature Visualization](https://distill.pub/2017/feature-visualization) (2017)
 - :book: Olah, Chris, [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks) (2018)
-- :computer: Class Jupyter notebook
+- :computer: [Class Jupyter Notebook](https://github.com/zentralwerkstatt/ART185AI/blob/master/N07_Visualization.ipynb)
 
 ### 2/28 Bias and Interpretability
 
@@ -139,8 +139,6 @@ Weekly assignment: Create your own (interesting) deep dream image(s), due Tuesda
 - [Gender Shades](http://gendershades.org/)
 - :computer: [How to Make a Racist AI without Really Trying](http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/)
 - :book: Selbst, Andrew D. et. al., [The Intuitive Appeal of Explainable Machines](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3126971) (2018)
-- :book: Frank Pasquale, The Black Box Society (2015), excerpts
-- [EU GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN)
 
 Weekly assignment: Final project proposal (1-2 pages) due next week. Sections to include: project description, technical component, critical component, feasability.
 
@@ -148,16 +146,7 @@ Weekly assignment: Final project proposal (1-2 pages) due next week. Sections to
 
 - Fabian at Humboldt University, Berlin. Please use the time to work on your final projects.
 
-### 3/7: Style Transfer
-
-![](img/crespo_800x200.jpg)
-
-Style transfer art by [Sofia Crespo](https://www.instagram.com/soficrespo91/) (2018)
-
-- :computer: Class Jupyter notebook
-- :computer: Playground: https://reiinakano.github.io/arbitrary-image-stylization-tfjs/
-
-### 3/12: GANs
+### 3/7: GANs
 
 ![](img/barbershop_800x200.jpg)
 
@@ -169,6 +158,10 @@ Barbershops genrated with the BigGAN algorithm (2018)
 - :computer: Class Jupyter notebook
 - :computer: Playground: https://ganbreeder.app/
 - :computer: Playground: http://gandissect.csail.mit.edu/
+
+### 3/12: Final projects
+
+- Final project studio
 
 ### 3/14: Final projects
 
