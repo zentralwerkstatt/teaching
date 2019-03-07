@@ -8,6 +8,8 @@
 - [Been Kim's website](https://beenkim.github.io/)
 - [Rich Caruana's website](https://www.microsoft.com/en-us/research/people/rcaruana/#!publications)
 - [Chris Olah's Blog](http://colah.github.io/)
+- [GLTR (glitter)](http://gltr.io/dist/)
+- [Distill](https://distill.pub)
 
 ## FAT
 
@@ -52,3 +54,4 @@
 - [AI Fiddle: Machine Learning in the Browser](https://aifiddle.io/)
 - [Papers with Code](https://paperswithcode.com/greatest)
 - [SpaceSheet latent space explorer](https://vusd.github.io/spacesheet/)
+- [NNs from scratch in Numpy](https://victorzhou.com/blog/intro-to-neural-networks/)
