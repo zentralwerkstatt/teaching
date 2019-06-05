@@ -1,9 +1,9 @@
-#Desktop
-
 # Computer als Medium der Kunst
 
 Blockseminar: 21.-23. Juni 2019
+
 Freitag, Samstag, Sonntag, 9-16 Uhr
+
 Email: offert@ucsb.edu
 
 ## Kursbeschreibung
@@ -45,7 +45,7 @@ Soweit nicht direkt verlinkt finden Sie alle Volltexte im freigegebenen Google-D
 - Sarin, Helena. "[Playing a game of GANstruction](https://thegradient.pub/playing-a-game-of-ganstruction/)." The Gradient (2019)
 - Offert, Fabian. "[The Past, Present, and Future of AI Art](https://www.skynettoday.com/editorials/ai-art-history)." Skynet Today, 2019.
 - Vincent, James. "[How Three French Students Used Borrowed Code to Put the First AI Portrait In Christie's](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans)." The Verge, 2018.
-- Twitter discussion: https://twitter.com/DrBeef_/status/1055285640420483073, 2018.
+- Twitter-Diskussion: https://twitter.com/DrBeef_/status/1055285640420483073, 2018.
 - Mordvintsev, Alexander et. al.. "[Inceptionism: Going Deeper into Neural Networks](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)." Google Research Blog, 2015.
 - Chayka, Kyle. "[Why Google's Deep Dream is Future Kitsch](https://psmag.com/environment/googles-deep-dream-is-future-kitsch)". Pacific Standard, 2015.
 - Crawford, Kate. "[The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk&t=698s)." Vortrag im Rahmen von NIPS2017, Long Beach, Kalifornien, USA, 2017.
