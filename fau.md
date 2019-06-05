@@ -16,7 +16,7 @@ Bitte bereiten Sie für die erste Sitzung ein Referat von maximal 10 Minuten vor
 
 ## Lektüreliste
 
-Soweit nicht direkt verlinkt finden Sie alle Volltexte im freigegebenen Google-Drive-Ordner. Den Link hierzu finden Sie in der Begrüßungsemail zum Kurs.
+**Soweit nicht direkt verlinkt finden Sie alle Volltexte im freigegebenen Google-Drive-Ordner. Den Link hierzu finden Sie in der Begrüßungsemail zum Kurs.**
 
 ### I Maschinisierung von Kopfarbeit
 
@@ -29,7 +29,7 @@ Soweit nicht direkt verlinkt finden Sie alle Volltexte im freigegebenen Google-D
 
 ### II Computerkunst 1959-1999, 
 
-- Nake, Frieder. Ästhetik als Informationsverarbeitung. Grundlagen und Anwendung der Informatik im Bereich ästhetischer Produktion und Kritik*. Einleitung und Kapitel 1 ("Ästhetik"). Wien: Springer, 1974.
+- Nake, Frieder. *Ästhetik als Informationsverarbeitung. Grundlagen und Anwendung der Informatik im Bereich ästhetischer Produktion und Kritik*. Einleitung und Kapitel 1 ("Ästhetik"). Wien: Springer, 1974.
 - LeWitt, Sol. "Paragraphs on Conceptual Art." Artforum 5, Nr. 10, Sommer 1967.
 - Bense, Max. "kleine abstrakte ästhetik". In: Ausgewählte Schriften Bd. 3. Stuttgart: J.B. Metzler, 1998.
 - Gaboury, Jacob. "Hidden Surface Problems." Journal of Visual Culture 14, Nr. 1 (2015).
