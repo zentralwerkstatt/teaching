@@ -60,4 +60,4 @@ Soweit nicht direkt verlinkt finden Sie alle Volltexte im freigegebenen Google-D
 - *computer-grafik* (1965)
 - *Herstellung von zeichnerischen Darstellungen, Tonfolgen und Texten mit elektronischen Rechenanlagen* (1966)
 - *A Report on the Art and Technology Program of the Los Angeles County Museum of Art* (1971)
-- *AI: More Than Human* (2019). Dieser Katalog ist momentan noch nicht verfügbar und wird nachgereicht. Die umfangreiche Webseite der Ausstellungen bietet einen guten Überblick über die ausgestellten Werke.
+- *[AI: More Than Human](https://www.barbican.org.uk/whats-on/2019/event/ai-more-than-human)* (2019). Dieser Katalog ist momentan noch nicht verfügbar und wird nachgereicht. Die umfangreiche Webseite der Ausstellung bietet einen guten Überblick über die ausgestellten Werke.
