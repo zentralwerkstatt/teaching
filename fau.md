@@ -16,7 +16,7 @@ Bitte bereiten Sie für die erste Sitzung ein Referat von maximal 10 Minuten vor
 
 ## Lektüreliste
 
-**Soweit nicht direkt verlinkt finden Sie alle Volltexte im freigegebenen Google-Drive-Ordner. Den Link hierzu finden Sie in der Begrüßungsemail zum Kurs.**
+**Soweit nicht direkt verlinkt, finden Sie alle Volltexte im freigegebenen Google-Drive-Ordner. Den Link hierzu finden Sie in der Begrüßungsemail zum Kurs.**
 
 ### I Maschinisierung von Kopfarbeit
 
@@ -43,7 +43,7 @@ Bitte bereiten Sie für die erste Sitzung ein Referat von maximal 10 Minuten vor
 - Chayka, Kyle. "[Why Google's Deep Dream is Future Kitsch](https://psmag.com/environment/googles-deep-dream-is-future-kitsch)". Pacific Standard, 2015.
 - Crawford, Kate. "[The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk&t=698s)." Vortrag im Rahmen von NIPS2017, Long Beach, Kalifornien, USA, 2017.
 - Goh, Gabriel. ["Image Synthesis from Yahoo's open_nsfw](https://open_nsfw.gitlab.io/)." Gabriel Goh's Blog, 2016.
-- Turing, Alan M.. "Computing Machinery and Intelligence". Mind 59, Nr. 236 (1950), 433–60. Dt. Übersetzung: Turing, Alan M.. "Kann eine Maschine denken?" In: *Künstliche Intelligenz. Philosophische Probleme.* Stuttgart: Reclam, 1994.
+- Turing, Alan M.. "Computing Machinery and Intelligence". Mind 59, Nr. 236 (1950), 433–60. Dt. Übersetzung: "Kann eine Maschine denken?" In: *Künstliche Intelligenz. Philosophische Probleme.* Stuttgart: Reclam, 1994.
 - Kurenkov, Andrey. "[A 'Brief' History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)." Andrey Kurenkov's Blog, 2015.
 - Mordvintsev, Alexander et. al.. "[Inceptionism: Going Deeper into Neural Networks](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)." Google Research Blog, 2015.
 - Offert, Fabian. "[The Past, Present, and Future of AI Art](https://www.skynettoday.com/editorials/ai-art-history)." Skynet Today, 2019.
