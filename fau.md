@@ -20,12 +20,12 @@ Bitte bereiten Sie für die erste Sitzung ein Referat von maximal 10 Minuten vor
 
 ### I Maschinisierung von Kopfarbeit
 
-- Babbage, Charles. "On the Economy of Machinery and Manufactures". Dt. Übersetzung in: Die Ökonomie der Maschine. Berlin: Kadmos Kulturverlag, 1999.
+- Babbage, Charles. "On the Economy of Machinery and Manufactures". In: *Babbage's Calculating Engines. Being a Collection of Papers Relating to Them; Their History, and Construction*. Cambridge: Cambridge University Press, 2010. Dt. Übersetzung in: Die Ökonomie der Maschine. Berlin: Kadmos Kulturverlag, 1999.
 - Benjamin, Walter. "Der Autor als Produzent". In: Gesammelte Schriften II-2. Frankfurt am Main: Suhrkamp, 1974.
 - Clark, Timothy J.. "Art History in an Age of Image Machines." In: EurAmerica 38, Nr. 1 (2008).
 - Descartes, René. *[Abhandlung über die Methode des richtigen Vernunftgebrauchs](https://www.textlog.de/descartes-methode.html)* (1637). Kapitel V.
 - Kitchin, Rob. "Thinking critically about and researching algorithms." Information, Communication & Society 20, Nr. 1, 2017.
-- Kittler, Friedrich. "Protected Mode". In: Die Wahrheit der technischen Welt. Essays zur Genealogie der Gegenwart. Frankfurt am Main: Suhrkamp, 2003.
+- Kittler, Friedrich. "Protected Mode". In: Draculas Vermächtnis. Technische Schriften. Leipzig: Reclam, 1993.
 
 ### II Computerkunst 1959-1999, 
 
@@ -57,7 +57,9 @@ Bitte bereiten Sie für die erste Sitzung ein Referat von maximal 10 Minuten vor
 - *A Report on the Art and Technology Program of the Los Angeles County Museum of Art* (1971)
 - *[AI: More Than Human](https://www.barbican.org.uk/whats-on/2019/event/ai-more-than-human)* (2019). Dieser Katalog ist momentan noch nicht verfügbar und wird nachgereicht. Die umfangreiche Webseite der Ausstellung bietet einen guten Überblick über die ausgestellten Werke.
 - *computer-grafik* (1965)
+- *Computer Art* (1972)
 - *Herstellung von zeichnerischen Darstellungen, Tonfolgen und Texten mit elektronischen Rechenanlagen* (1966)‌
+- *Manfred Mohr Computer Graphics* (1971)
 - *New Tendencies 4. Computers and Visual Research* (1970)
 - *Cybernetic Serendipity. The Computer and the Arts* (1969, 2018 reprint)
 - *Software. Information Technology: Its New Meaning for Art* (1970)
