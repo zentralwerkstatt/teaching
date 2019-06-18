@@ -4,6 +4,8 @@ Blockseminar: 21.-23. Juni 2019
 
 Freitag, Samstag, Sonntag, 9-16 Uhr
 
+FAU Orangerie, Mediathek
+
 Email: offert@ucsb.edu
 
 ## Kursbeschreibung
