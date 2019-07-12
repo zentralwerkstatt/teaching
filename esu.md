@@ -1,5 +1,3 @@
-#Desktop
-
 # Images of Image Machines. Theory and Practice of Interpretable Machine Learning for the Digital Humanities
 
 While text is still the most important research topic in the digital humanities, over the past ten years images have started to gradually appear on the radar of computational humanists. Recent developments in digital art history in particular have shown that the importance of images for DH research goes beyond ensuring their accessibility through databases and interfaces. In fact, images are where digital humanities and artificial intelligence meet. Most importantly, the automated classification of images on the one hand, and the automated production of images on the other raise a fundamental question at the interface of computer science and the humanities: how is reality represented in machine learning systems? The field of interpretable machine learning is concerned with opening the black box and answering this question.
@@ -55,14 +53,18 @@ Readings/materials that are not directly linked here are provided via a shared G
 - FRI 8b: Project work
 - FRI 9b: Conclusion and preparation for presentation
 
-## Tutorials
+## Tutorials/Further Resources
 
-Official Python tutorial:
+### Beginner
+
+- [The Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 Python beginner's website
+- [More Python Tutorials](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 
-Deep learning book:
+### Advanced
+
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-- [Deep Learning book (Goodfellow)](http://www.deeplearningbook.org/)
+- [The Deep Learning book (Ian Goodfellow)](http://www.deeplearningbook.org/)
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [Amazon Machine Learning Course](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
