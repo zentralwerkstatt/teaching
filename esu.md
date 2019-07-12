@@ -20,7 +20,7 @@ Readings/materials that are not directly linked here are provided via a shared G
 - Kittler, Friedrich. "Protected Mode". In: Literature, Media, Information Systems. London: Routledge, 2012.
 - Kurenkov, Andrey. [A 'Brief' History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/), 2015.
 - Mittelstadt, Brent  et. al. "Explaining Explanations in AI". 2019 ACM Conference on Fairness, Accountability, and Transparency (FAT*).
-- Molnar, Christoph. [The Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/) (2019).
+- Molnar, Christoph. [The Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/) (2019). (No need to read the whole thing, but good overview of the field.)
 - Moretti, Franco and Impett, Leonardo. "Totentanz. Operationalizing Aby Warburg's Pathosformeln". New Left Review 107, September/October 2017.
 - Olah, Chris et. al.. [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/), 2018.
 - Selbst, Andrew D. and Barocas, Solon. "The Intuitive Appeal of Explainable Machines". Fordham Law Review 87, 2018.
