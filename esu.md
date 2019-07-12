@@ -58,7 +58,6 @@ Readings/materials that are not directly linked here are provided via a shared G
 ### Beginner
 
 - [The Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-Python beginner's website
 - [More Python Tutorials](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 
 ### Advanced
