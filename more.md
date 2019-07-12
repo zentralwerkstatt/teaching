@@ -20,7 +20,7 @@
 - [Critical Algorithm Studies reading list](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
 - [Anatomy of an AI System]( https://anatomyof.ai)
 - [Sorelle Friedler's website](http://sorelle.friedler.net/)
-- [Hannah Wallch's website](http://dirichlet.net/publications/)
+- [Hannah Wallach's website](http://dirichlet.net/publications/)
 - [Kate Crawford's website](https://www.katecrawford.net/pubs.html)
 - [Jennifer Wortman Vaughan's website](http://www.jennwv.com/pubs.html)
 

@@ -29,7 +29,7 @@ Bitte bereiten Sie für die erste Sitzung ein Referat von maximal 10 Minuten vor
 - Kitchin, Rob. "Thinking critically about and researching algorithms." Information, Communication & Society 20, Nr. 1, 2017.
 - Kittler, Friedrich. "Protected Mode". In: Draculas Vermächtnis. Technische Schriften. Leipzig: Reclam, 1993.
 
-### II Computerkunst 1959-1999, 
+### II Computerkunst 1959-1999 
 
 - Bense, Max. "kleine abstrakte ästhetik". In: Ausgewählte Schriften Bd. 3. Stuttgart: J.B. Metzler, 1998.
 - Gaboury, Jacob. "Hidden Surface Problems." Journal of Visual Culture 14, Nr. 1 (2015).
