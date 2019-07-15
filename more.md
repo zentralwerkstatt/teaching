@@ -8,6 +8,7 @@
 - [ITP-NYU Neural Aesthetic class (Gene Kogan)](http://ml4a.github.io/classes/itp-F18/)
 - [Machine Learning for Artists](https://ml4a.github.io/ml4a/)
 - [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
+- [Nick Montfort's "Exploratory Programming" Book](https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities)
 
 ## Advanced
 
