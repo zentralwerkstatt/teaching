@@ -34,7 +34,7 @@
 
 # Further Resources
 
-### Theory
+## Theory
 
 - [Papers with Code](https://paperswithcode.com/greatest)
 - [Explanation of the mathematics behind GANs](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
