@@ -1,5 +1,3 @@
-#Desktop
-
 # Images of Image Machines. Theory and Practice of Interpretable Machine Learning for the Digital Humanities
 
 While text is still the most important research topic in the digital humanities, over the past ten years images have started to gradually appear on the radar of computational humanists. Recent developments in digital art history in particular have shown that the importance of images for DH research goes beyond ensuring their accessibility through databases and interfaces. In fact, images are where digital humanities and artificial intelligence meet. Most importantly, the automated classification of images on the one hand, and the automated production of images on the other raise a fundamental question at the interface of computer science and the humanities: how is reality represented in machine learning systems? The field of interpretable machine learning is concerned with opening the black box and answering this question.
