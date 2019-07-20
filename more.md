@@ -38,11 +38,12 @@
 ## Datasets
 
 - [Machine Learning Datasets](https://www.datasetlist.com/)
-- [Academic Torrents]()
+- [Academic Torrents](http://academictorrents.com/)
 - [Mozilla Common Voice](https://voice.mozilla.org/en)
 - [ImageNet](http://www.image-net.org/)
-- [Herbarium challenge on Kaggle](https://www.kaggle.com/c/herbarium-2019-fgvc6)
-- [Met collection on Kaggel](https://www.kaggle.com/c/imet-2019-fgvc6)
+- [Herbarium on Kaggle](https://www.kaggle.com/c/herbarium-2019-fgvc6)
+- [Met on Kaggel](https://www.kaggle.com/c/imet-2019-fgvc6)
+- [iNaturalist](https://github.com/visipedia/inat_comp)
 - [Terrapattern](http://www.terrapattern.com/)
 
 # Further Resources
