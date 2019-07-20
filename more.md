@@ -1,4 +1,4 @@
-# Tutorials
+# Tutorials/Learning Resources
 
 ## Beginner
 
@@ -9,6 +9,12 @@
 - [Machine Learning for Artists](https://ml4a.github.io/ml4a/)
 - [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
 - [Nick Montfort's "Exploratory Programming" Book](https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities)
+- [Python docs](https://docs.python.org/3)
+- [Stack Overflow](https://stackoverflow.com)
+- [Official NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
+- [NumPy docs](https://docs.scipy.org/doc/numpy/reference/index.html)
+- [Finetuning TorchVision Models](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
+- [PyTorch Transfer Learning Tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 
 ## Advanced
 
@@ -22,6 +28,12 @@
 - [Hyperparameter Optimization](https://blog.nanonets.com/hyperparameter-optimization/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+- [Convolution Arithmetic](https://github.com/vdumoulin/conv_arithmetic)
+- [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 Way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+- [Papers with Code](https://paperswithcode.com/greatest)
+- [Explanation of the mathematics behind GANs](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
+- [Language Models explained](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
+- [Understanding Softmax and NLL](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/)
 
 ## Datasets
 
@@ -34,12 +46,6 @@
 - [Terrapattern](http://www.terrapattern.com/)
 
 # Further Resources
-
-## Theory
-
-- [Papers with Code](https://paperswithcode.com/greatest)
-- [Explanation of the mathematics behind GANs](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
-- [Language Models explained](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
 
 ## Interpretability
 

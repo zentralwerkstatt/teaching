@@ -1,3 +1,5 @@
+#Desktop
+
 # Images of Image Machines. Theory and Practice of Interpretable Machine Learning for the Digital Humanities
 
 While text is still the most important research topic in the digital humanities, over the past ten years images have started to gradually appear on the radar of computational humanists. Recent developments in digital art history in particular have shown that the importance of images for DH research goes beyond ensuring their accessibility through databases and interfaces. In fact, images are where digital humanities and artificial intelligence meet. Most importantly, the automated classification of images on the one hand, and the automated production of images on the other raise a fundamental question at the interface of computer science and the humanities: how is reality represented in machine learning systems? The field of interpretable machine learning is concerned with opening the black box and answering this question.
@@ -31,27 +33,27 @@ Readings/materials that are not directly linked here are provided via a shared G
 
 ## First Week
 
-- TUE 1a: Participant introductions, collection of interests, introduction to the topic: the workshop in 60 minutes
+- TUE 1a: Participant introductions, collection of interests/projects, introduction to the topic: the workshop in 60 minutes
 - TUE 2a: Readings and discussion: artificial intelligence and machine learning
-- WED 3a: Readings and discussion: interpretable machine learning
-- WED 4a: Readings and discussion: fairness, accountability, and transparency
-- THU 5a: Introduction to image datasets
-- FRI 6a: Refresher: Python for DH in 90 minutes
-- FRI 7a: Introduction to tools, frameworks, notebooks
-- SAT 8a: Reading and writing images with Python I
-- SAT 9a: Reading and writing images with Python II
+- WED 3a: Readings and discussion: artificial intelligence and machine learning
+- WED 4a: Introduction to tools, frameworks, notebooks / [code](https://github.com/zentralwerkstatt/esu2019/blob/master/A4_Setup.ipynb)
+- THU 5a: Python for machine learning I / [code](https://github.com/zentralwerkstatt/esu2019/blob/master/A5_Python_1.ipynb)
+- FRI 6a: Python for machine learning II  / [code](https://github.com/zentralwerkstatt/esu2019/blob/master/A6_Python_2.ipynb)
+- FRI 7a:  Introduction to image datasets (scraping/cleaning), collection of participant datasets  / [code](https://github.com/zentralwerkstatt/esu2019/blob/master/A7_Dataset_Collection.ipynb)
+- SAT 8a: Exploring and understanding image datasets with machine learning  / [code](https://github.com/zentralwerkstatt/esu2019/blob/master/A8_Dataset_Exploration.ipynb)
+- SAT 9a: Conclusion second week and preparation for presentation
 
 ## Second Week
 
-- MON 1b: Introduction to neural networks for image classification I
-- MON 2b: Introduction to neural networks for image classification II
-- TUE 3b: Collecting and cleaning image datasets with Python
-- TUE 4b: Exploring and understanding image datasets with machine learning
-- WED 5b: TBD
-- THU 6b: Feature visualization: theory and practice
-- THU 7b: Generative adversarial networks: theory and practice
-- FRI 8b: Project work
-- FRI 9b: Conclusion and preparation for presentation
+- MON 1b: Readings and discussion: interpretable machine learning
+- MON 2b: Readings and discussion: fairness, accountability, and transparency
+- TUE 3b: Building Blocks of a Machine Learning System  / [code](https://github.com/zentralwerkstatt/esu2019/blob/master/B3_MNIST.ipynb)
+- TUE 4b: Feature visualization
+- WED 5b: Applied face detection
+- THU 6b: Applied pose detection
+- THU 7b: Generative adversarial networks
+- FRI 8b: TBD/project work
+- FRI 9b: Conclusion second week and preparation for presentation
 
 ## Tutorials/Further Resources
 
