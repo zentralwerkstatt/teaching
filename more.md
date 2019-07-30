@@ -56,6 +56,7 @@
 - [Been Kim's website](https://beenkim.github.io/)
 - [Chris Olah's Blog](http://colah.github.io/)
 - [Distill](https://distill.pub)
+- [The Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 
 ## FAT*
 
