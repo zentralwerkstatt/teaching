@@ -1,10 +1,10 @@
-#Desktop
-
 # Distant Viewing. Bilder als Daten, Daten als Bilder
 
-![](img/plot.png)
+![](img/plot.jpg)
 
 Freitags, 10-12
+Nägelsbachstr. 49c
+Raum 02.313
 
 ## Kursbeschreibung
 
@@ -20,18 +20,18 @@ Hausarbeit, praktisches Projekt
 
 ## Lektüreliste
 
-**Soweit nicht direkt verlinkt, finden Sie alle Volltexte im freigegebenen Google-Drive-Ordner. Den Link hierzu finden Sie in der Begrüßungsemail zum Kurs.**
+Soweit nicht direkt verlinkt, finden Sie alle Volltexte im freigegebenen Google-Drive-Ordner. Den Link hierzu finden Sie in der Begrüßungsemail zum Kurs.
 
 ### 25.10. Einführung
 
-### 1.11. [Allerheiligen]
+### 01.11. [Allerheiligen]
 
 ### 08.11. Python für visuelles maschinelles Lernen
 
 - Einführung in die im Kurs verwendeten Entwicklungsumgebung sowie Werkzeuge und Pakete
 - Bildverarbeitung mit Python
 
-### 15.11. Maschinisierung von Denkarbeit [Referat]
+### 15.11. Maschinisierung von Kopfarbeit [Referat]
 
 - Descartes, René. [Abhandlung über die Methode des richtigen Vernunftgebrauchs](https://www.textlog.de/descartes-methode.html) (1637). Kapitel V.
 - Kittler, Friedrich. "Protected Mode". In: Draculas Vermächtnis. Technische Schriften. Leipzig: Reclam, 1993.
@@ -56,7 +56,7 @@ Hausarbeit, praktisches Projekt
 
 ### 10.01. *Classifying* und *clustering* I
 
-### 17.01. Maschinisierung von Wahrnehmungsarbeit [Referat]
+### 17.01. Maschinisierung von Wahrnehmung [Referat]
 
 - Babbage, Charles. "On the Economy of Machinery and Manufactures". In: *Babbage's Calculating Engines. Being a Collection of Papers Relating to Them; Their History, and Construction*. Cambridge: Cambridge University Press, 2010. Dt. Übersetzung in: Die Ökonomie der Maschine. Berlin: Kadmos Kulturverlag, 1999.
 - Benjamin, Walter. "Der Autor als Produzent." In: Gesammelte Schriften II-2. Frankfurt am Main: Suhrkamp, 1974.
