@@ -2,6 +2,8 @@
 
 ![](img/plot.jpg)
 
+## Ort und Zeit
+
 Freitags, 10-12
 Nägelsbachstr. 49c
 Raum 02.313
@@ -40,19 +42,21 @@ Soweit nicht direkt verlinkt, finden Sie alle Volltexte im freigegebenen Google-
 
 ### 22.11. [Konferenz "Image Servitude", HfG]
 
-### 29.11. *Web scraping* und *data set building* I
+### 29.11. Web scraping und data set building I
 
 ### 06.12. Technische Bilder [Referat]
 
 - [...]
 
-### 13.12. *Web scraping* und *data set building* II
+### 13.12. Web scraping und data set building II
 
 ### 20.12. Distant Viewing
 
 - Arnold, Taylor, und Lauren Tilton. "[Distant viewing: analyzing large visual corpora](https://www.distantviewing.org/pdf/distant-viewing.pdf)." In: Digital Scholarship in the Humanities (2019).
 - Bell, Peter, und Leonardo Impett. "Ikonographie und Interaktion. Computergestützte Analyse von Posen in Bildern der Heilsgeschichte." In: Das Mittelalter 24, Nr. 1 (2019): 31-53.
 - Moretti, Franco. "['Operationalizing': or, the function of measurement in modern literary theory](https://litlab.stanford.edu/LiteraryLabPamphlet6.pdf)." Stanford Literary Lab Pamphlet Nr. 6 (2013).
+- Russel, Bertrand. "[Vagueness](http://bactra.org/Russell/vagueness/)." (1923).
+- Underwood, Ted. Distant Horizons. Auszüge. University of Chicago Press, 2019.
 
 ### 10.01. *Classifying* und *clustering* I
 
