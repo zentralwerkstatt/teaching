@@ -1,7 +1,5 @@
 # Teaching
 
-Wait, why is this a GitHub page? It is a GitHub page because my teaching combines theory and practice. In the case of media studies, the history and philosophy of technology, the digital humanities, and other disciplines related to my research this means close reading and writing code as much as close reading and writing critical prose.
-
 ## Classes
 
 - Critical Machine Vision, Friedrich-Alexander-Universität Erlangen-Nürnberg, Sommersemester 2020 (email for access)
