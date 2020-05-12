@@ -6,7 +6,6 @@
 - [Computer als Medium der Kunst, Friedrich-Alexander-Universität Erlangen-Nürnberg, Sommersemester 2019](https://github.com/zentralwerkstatt/teaching/blob/master/fau.md)
 - [Aesthetics and Politics of Artificial Intelligence, UCSB MAT594SP, Spring 2018](https://github.com/zentralwerkstatt/teaching/blob/master/mat594sp.md) / [code](https://github.com/zentralwerkstatt/MAT594SP)
 - [Machine Learning and the Arts, UCSB ART185AI, Winter 2019](https://github.com/zentralwerkstatt/teaching/blob/master/art185ai.md) / [code](https://github.com/zentralwerkstatt/ART185AI)
-- [More class resources](https://github.com/zentralwerkstatt/teaching/blob/master/more.md)
 
 ## Workshops
 
