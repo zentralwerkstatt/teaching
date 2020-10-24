@@ -11,6 +11,7 @@
 - [The Gradient](https://thegradient.pub/)
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 - [Before you make a thing](https://jentery.github.io/ts200v2/notes.html)
+- [(Math) Better Explained](https://betterexplained.com/)
 
 ## Classes and Books
 
