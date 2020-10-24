@@ -23,6 +23,7 @@
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Distill](https://distill.pub)
 - [The Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
+- [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 ## Explainers
 
