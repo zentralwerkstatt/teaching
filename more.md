@@ -11,7 +11,6 @@
 - [The Gradient](https://thegradient.pub/)
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 - [Before you make a thing](https://jentery.github.io/ts200v2/notes.html)
-- [(Math) Better Explained](https://betterexplained.com/)
 
 ## Classes and Books
 
@@ -38,3 +37,5 @@
 - [Hyperparameter Optimization](https://blog.nanonets.com/hyperparameter-optimization/)
 - [Making Anime faces with StyleGAN](https://www.gwern.net/Faces)
 - [StyleGAN v2: notes on training and latent space exploration](https://towardsdatascience.com/stylegan-v2-notes-on-training-and-latent-space-exploration-e51cf96584b3)
+- [Friendly introduction to PCA](http://peterbloem.nl/blog/pca)
+- [(Math) Better Explained](https://betterexplained.com/)
