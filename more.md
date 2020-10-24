@@ -26,6 +26,7 @@
 - [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 - [All you want to know about deep learning (Andreas Maier)](https://towardsdatascience.com/all-you-want-to-know-about-deep-learning-8d68dcffc258)
 - [MIT 18.S191: Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)
+- [List of important publications in theoretical computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_theoretical_computer_science#Algorithmic_information_theory)
 
 ## Explainers
 
