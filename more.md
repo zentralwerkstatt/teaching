@@ -25,6 +25,7 @@
 - [The Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 - [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 - [All you want to know about deep learning (Andreas Maier)](https://towardsdatascience.com/all-you-want-to-know-about-deep-learning-8d68dcffc258)
+- [MIT 18.S191: Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)
 
 ## Explainers
 
