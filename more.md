@@ -28,6 +28,11 @@
 - [MIT 18.S191: Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)
 - [List of important publications in theoretical computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_theoretical_computer_science#Algorithmic_information_theory)
 
+## Web Archives
+
+- [Creativity x Machine Learning](https://mlart.co/)
+- [Serpentine Gallery Creative AI archive](https://creative-ai.org/)
+
 ## Explainers
 
 - [Convolution Arithmetic](https://github.com/vdumoulin/conv_arithmetic)
