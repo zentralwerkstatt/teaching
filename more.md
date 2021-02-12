@@ -5,12 +5,9 @@
 - [The Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Machine Learning for Artists (Gene Cogan)](https://ml4a.github.io/ml4a/)
 - [A Return to Machine Learning (Kyle McDonald)](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
-- [Python docs](https://docs.python.org/3)
-- [Stack Overflow](https://stackoverflow.com)
-- [PyTorch Tutorialy](https://pytorch.org/tutorials)
-- [The Gradient](https://thegradient.pub/)
-- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+- [PyTorch Tutorial](https://pytorch.org/tutorials)
 - [Before you make a thing](https://jentery.github.io/ts200v2/notes.html)
+- [LabML](https://nn.labml.ai/)
 
 ## Classes and Books
 
