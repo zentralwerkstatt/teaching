@@ -26,6 +26,7 @@
 - [List of important publications in theoretical computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_theoretical_computer_science#Algorithmic_information_theory)
 - [Great list of even more books](https://csgordon.github.io/books.html)
 - [2021 List of video CS classes](https://github.com/Developer-Y/cs-video-courses)
+- [Patterns, Predictions, and Actions](https://mlstory.org/)
 
 ## Web Archives
 
