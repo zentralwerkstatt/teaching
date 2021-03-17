@@ -12,7 +12,6 @@
 ## Classes and Books
 
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-- [Harvard CS282BR: Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/)
 - [The Deep Learning Book (Ian Goodfellow)](http://www.deeplearningbook.org/)
 - [Dive into Deep Learning book (Zachary Lipton)](http://numpy.d2l.ai/)
 - [The Fast AI Book](https://github.com/fastai/fastbook)
@@ -22,7 +21,6 @@
 - [The Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 - [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 - [All you want to know about deep learning (Andreas Maier)](https://towardsdatascience.com/all-you-want-to-know-about-deep-learning-8d68dcffc258)
-- [MIT 18.S191: Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)
 - [List of important publications in theoretical computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_theoretical_computer_science#Algorithmic_information_theory)
 - [Great list of even more books](https://csgordon.github.io/books.html)
 - [2021 List of video CS classes](https://github.com/Developer-Y/cs-video-courses)
