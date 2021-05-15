@@ -8,6 +8,7 @@
 - [PyTorch Tutorial](https://pytorch.org/tutorials)
 - [Before you make a thing](https://jentery.github.io/ts200v2/notes.html)
 - [LabML](https://nn.labml.ai/)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## Classes and Books
 
